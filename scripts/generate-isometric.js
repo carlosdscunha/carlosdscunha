@@ -125,7 +125,7 @@ function createSVG(days, opts) {
     // Renderiza apenas se tiver commits OU se for para desenhar o grid do chão
     if (d.count > 0) {
       // Paredes (Lados)
-      pieces.push(`<polygon points="${topD.x},${topD.y} ${topC.x},${topC.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" fill="${leftColor}" stroke="none"/>`);
+      //pieces.push(`<polygon points="${topD.x},${topD.y} ${topC.x},${topC.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" fill="${leftColor}" stroke="none"/>`);
      // pieces.push(`<polygon points="${topA.y},${topA.z} ${topB.y},${topB.z} ${baseB.y},${baseB.z} ${baseA.y},${baseA.z}" fill="${rightColor}" stroke="none"/>`);
 
       // Teto (Topo) - Com borda leve para destacar
