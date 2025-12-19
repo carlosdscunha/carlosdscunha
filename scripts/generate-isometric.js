@@ -125,11 +125,13 @@ function createSVG(days, opts) {
     // Renderiza apenas se tiver commits OU se for para desenhar o grid do chão
     if (d.count > 0) {
       // Paredes (Lados)
-      //pieces.push(`<polygon points="${topD.x},${topD.y} ${topC.x},${topC.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" fill="${leftColor}" stroke="none"/>`);
-     // pieces.push(`<polygon points="${topA.y},${topA.z} ${topB.y},${topB.z} ${baseB.y},${baseB.z} ${baseA.y},${baseA.z}" fill="${rightColor}" stroke="none"/>`);
+      // Lado esquerdo
+      pieces.push(`<polygon points="${baseD.x},${baseD.y} ${baseA.x},${baseA.y} ${topA.x},${topA.y} ${topD.x},${topD.y}" fill="${leftColor}" stroke="none"/>`);
+      // Lado de baixo
+      pieces.push(`<polygon points="${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${topC.x},${topC.y} ${topB.x},${topB.y}" fill="${rightColor}" stroke="none"/>`);
 
       // Teto (Topo) - Com borda leve para destacar
-      //pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
+      pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
     } else {
       // Desenha apenas o "chão" (grid) para dias vazios, bem sutil
       pieces.push(`<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" fill="none" stroke="#2d3748" stroke-width="0.5"/>`);
