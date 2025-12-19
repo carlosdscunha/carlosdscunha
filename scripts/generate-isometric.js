@@ -126,7 +126,7 @@ function createSVG(days, opts) {
     if (d.count > 0) {
       // Paredes (Lados)
       pieces.push(`<polygon points="${topD.x},${topD.y} ${topC.x},${topC.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" fill="${leftColor}" stroke="none"/>`);
-      pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${baseB.x},${baseB.y} ${baseA.x},${baseA.y}" fill="${rightColor}" stroke="none"/>`);
+      pieces.push(`<polygon points="${topA.x},${topA.z} ${topB.x},${topB.z} ${baseB.x},${baseB.z} ${baseA.x},${baseA.z}" fill="${rightColor}" stroke="none"/>`);
 
       // Teto (Topo) - Com borda leve para destacar
       pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
