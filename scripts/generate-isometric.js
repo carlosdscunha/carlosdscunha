@@ -60,7 +60,7 @@ function createSVG(days, opts) {
     '#161b22', // 0: Vazio (quase invisível)
     '#2e1065', // 1: Roxo escuro base
     '#7c3aed', // 2: Roxo médio
-    '#c026d3', // 3: Magenta
+    '#6366f1', // 3: Indigo (TROQUEI O '#c026d3' POR ESTE AZUL)
     '#22d3ee', // 4: Ciano elétrico
     '#ffffff'  // 5: Branco (Top contributor)
   ];
