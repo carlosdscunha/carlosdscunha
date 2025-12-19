@@ -129,7 +129,7 @@ function createSVG(days, opts) {
      // pieces.push(`<polygon points="${topA.y},${topA.z} ${topB.y},${topB.z} ${baseB.y},${baseB.z} ${baseA.y},${baseA.z}" fill="${rightColor}" stroke="none"/>`);
 
       // Teto (Topo) - Com borda leve para destacar
-      pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
+      //pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
     } else {
       // Desenha apenas o "chão" (grid) para dias vazios, bem sutil
       pieces.push(`<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" fill="none" stroke="#2d3748" stroke-width="0.5"/>`);
