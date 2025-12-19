@@ -88,7 +88,9 @@ function createSVG(days, opts) {
     return palette[5];
   }
 
+  // Colete todas as peças por tile, depois ordene por profundidade (centerY) para evitar problemas de sobreposição
   let pieces = [];
+  const tiles = [];
 
   days.forEach(d => {
     const x = d.week;
@@ -122,21 +124,35 @@ function createSVG(days, opts) {
     const leftColor = shadeColor(color, -30);
     const rightColor = shadeColor(color, -15);
 
+    const svgParts = [];
+
     // Renderiza apenas se tiver commits OU se for para desenhar o grid do chão
     if (d.count > 0) {
       // Paredes (Lados)
       // Lado esquerdo
-      pieces.push(`<polygon points="${baseD.x},${baseD.y} ${baseA.x},${baseA.y} ${topA.x},${topA.y} ${topD.x},${topD.y}" fill="${leftColor}" stroke="none"/>`);
+      svgParts.push(`<polygon points="${baseD.x},${baseD.y} ${baseA.x},${baseA.y} ${topA.x},${topA.y} ${topD.x},${topD.y}" fill="${leftColor}" stroke="none"/>`);
       // Lado de baixo
-      pieces.push(`<polygon points="${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${topC.x},${topC.y} ${topB.x},${topB.y}" fill="${rightColor}" stroke="none"/>`);
+      svgParts.push(`<polygon points="${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${topC.x},${topC.y} ${topB.x},${topB.y}" fill="${rightColor}" stroke="none"/>`);
 
       // Teto (Topo) - Com borda leve para destacar
-      pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
+      svgParts.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
     } else {
       // Desenha apenas o "chão" (grid) para dias vazios, bem sutil
-      pieces.push(`<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" fill="none" stroke="#2d3748" stroke-width="0.5"/>`);
+      svgParts.push(`<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" fill="none" stroke="#2d3748" stroke-width="0.5"/>`);
     }
+
+    // Calcula uma referência vertical (centerY) para ordenação de profundidade.
+    const centerY = (
+      parseFloat(baseA.y) + parseFloat(baseB.y) + parseFloat(baseC.y) + parseFloat(baseD.y) +
+      parseFloat(topA.y) + parseFloat(topB.y) + parseFloat(topC.y) + parseFloat(topD.y)
+    ) / 8;
+
+    tiles.push({ centerY, svgParts });
   });
+
+  // Ordene do fundo para a frente (menor centerY primeiro)
+  tiles.sort((a, b) => a.centerY - b.centerY);
+  tiles.forEach(t => pieces.push(...t.svgParts));
 
   const svg = `<?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="${width}" height="${height}" viewBox="0 0 ${width} ${height}" role="img">
