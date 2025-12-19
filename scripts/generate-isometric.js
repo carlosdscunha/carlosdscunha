@@ -107,7 +107,7 @@ function createSVG(days, opts) {
     const baseA = proj(x, y, 0);     // Topo do losango base
     const baseB = proj(x + 1, y, 0); // Direita
     const baseC = proj(x + 1, y + 1, 0); // Baixo
-    const baseD = proj(x, y - 1, 0); // Esquerda
+    const baseD = proj(x, y + 1, 0); // Esquerda
 
     // Coordenadas do teto (topo do prédio)
     const topA = proj(x, y, zHeight);
