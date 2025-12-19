@@ -44,22 +44,8 @@
 
 <div align="center">
   <img src="assets/contrib-city.svg" width="100%" alt="Isometric contributions city (gerado automaticamente)" />
-  <p><small>Imagem gerada automaticamente por um <code>GitHub Action</code>. Para regenerar: vá em <strong>Actions → Generate Isometric Contributions → Run workflow</strong>.</small></p>
 </div>
 
----
-
-## 🏙️ Isometric Contributions (gerado automaticamente)  
-
-A imagem acima (`assets/contrib-city.svg`) é gerada por uma GitHub Action que consulta seu histórico de contribuições e desenha uma cidade isométrica onde a altura dos prédios representa a atividade.  
-
-Como rodar localmente:
-
-1. Instale dependências: `npm ci`  
-2. Execute (substitua o token e o usuário):  
-   `GITHUB_TOKEN=<token> npm run generate:isometric -- --user=<seu-usuario> --out=assets/contrib-city.svg`  
-
-Notas: a action usa `${{ github.repository_owner }}` como usuário padrão; fique atento ao limite da API do GitHub.
 
 
 <div align="center">
