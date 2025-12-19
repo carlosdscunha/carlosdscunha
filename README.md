@@ -2,9 +2,6 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=120&section=header&animation=fadeIn" />
 </div>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=carlosdscunha.carlosdscunha&left_color=black&right_color=8e2de2" />
-</div>
 
 <br/>
 
