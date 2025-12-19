@@ -2,8 +2,9 @@ function createSVG(days, opts) {
   const weeks = Math.max(...days.map(d => d.week)) + 1;
   const rows = 7;
 
-  const tileW = opts.tileW || 42;
-  const tileH = opts.tileH || 26;
+  const tileW = opts.tileW || 30;
+  const tileH = opts.tileH || 18;
+
   const maxCount = Math.max(...days.map(d => d.count)) || 1;
 
   const palette = [
@@ -18,8 +19,11 @@ function createSVG(days, opts) {
   const width = (weeks + rows) * (tileW / 2) + 60;
   const height = (weeks + rows) * (tileH / 2) + 300;
 
-  const originX = 30 + rows * (tileW / 2);
-  const originY = 60;
+  const originX = width / 2;
+  const originY = height / 2 - 120;
+  const w = 0.85;
+
+
 
   function proj(x, y, z = 0) {
     const px = originX + (x - y) * (tileW / 2);
@@ -49,14 +53,14 @@ function createSVG(days, opts) {
     }
 
     const baseA = proj(x, y, 0);
-    const baseB = proj(x + 1, y, 0);
-    const baseC = proj(x + 1, y + 1, 0);
-    const baseD = proj(x, y + 1, 0);
+    const baseB = proj(x + w, y, 0);
+    const baseC = proj(x + w, y + w, 0);
+    const baseD = proj(x, y + w, 0);
 
     const topA = proj(x, y, zHeight);
-    const topB = proj(x + 1, y, zHeight);
-    const topC = proj(x + 1, y + 1, zHeight);
-    const topD = proj(x, y + 1, zHeight);
+    const topB = proj(x + w, y, zHeight);
+    const topC = proj(x + w, y + w, zHeight);
+    const topD = proj(x, y + w, zHeight);
 
     const color = colorForCount(d.count);
 
@@ -74,14 +78,14 @@ function createSVG(days, opts) {
         const z1 = Math.min(zHeight, z0 + floorH);
 
         const fA = proj(x, y, z0);
-        const fB = proj(x + 1, y, z0);
-        const fC = proj(x + 1, y + 1, z0);
-        const fD = proj(x, y + 1, z0);
+        const fB = proj(x + w, y, z0);
+        const fC = proj(x + w, y + w, z0);
+        const fD = proj(x, y + w, z0);
 
         const tA = proj(x, y, z1);
-        const tB = proj(x + 1, y, z1);
-        const tC = proj(x + 1, y + 1, z1);
-        const tD = proj(x, y + 1, z1);
+        const tB = proj(x + w, y, z1);
+        const tC = proj(x + w, y + w, z1);
+        const tD = proj(x, y + w, z1);
 
         pieces.push(
           `<polygon points="${tD.x},${tD.y} ${tC.x},${tC.y} ${fC.x},${fC.y} ${fD.x},${fD.y}" fill="${leftColor}"/>`
@@ -108,8 +112,9 @@ function createSVG(days, opts) {
     } else {
       pieces.push(
         `<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}"
-                 fill="none" stroke="#2d3748" stroke-width="0.5"/>`
+           fill="#0f172a" stroke="#1e293b" stroke-width="0.4"/>`
       );
+
     }
   });
 
