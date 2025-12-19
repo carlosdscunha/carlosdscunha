@@ -1,0 +1,14 @@
+{
+  "name": "carlosdscunha-profile",
+  "version": "1.0.0",
+  "description": "Gerador isométrico de cidade das contribuições do GitHub",
+  "main": "scripts/generate-isometric.js",
+  "scripts": {
+    "generate:isometric": "node scripts/generate-isometric.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@octokit/graphql": "^5.0.0",
+    "minimist": "^1.2.8"
+  }
+}
