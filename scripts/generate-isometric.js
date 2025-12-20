@@ -12,8 +12,8 @@ const argv = require('minimist')(process.argv.slice(2));
 
 // Configurações visuais (você pode ajustar aqui)
 const CONFIG = {
-  tileW: 100,        // Largura do tile isométrico
-  tileH: 50,         // Altura do tile
+  tileW: 120 * .5,        // Largura do tile isométrico
+  tileH: 60 * .5,         // Altura do tile
   maxBuildingHeight: 180, // Altura máxima dos arranha-céus
   minBuildingHeight: 8,
   glowIntensity: 12, // Glow nos topos mais fortes
