@@ -130,7 +130,7 @@ function createSVG(days, opts) {
     </linearGradient>
   </defs>`;
 
-  // Ordenar dias por profundidade (x + y maior = mais ao fundo)
+  // Ordenar para desenhar do fundo para a frente (Pintor's Algorithm)
   days.sort((a, b) => (a.week + a.dow) - (b.week + b.dow));
 
   days.forEach(d => {
@@ -139,50 +139,56 @@ function createSVG(days, opts) {
 
     let zHeight = 0;
     if (d.count > 0) {
-      zHeight = 10 + Math.pow(d.count / maxCount, 1.3) * 170;
+      // Altura baseada na quantidade de contribuições
+      zHeight = 10 + Math.pow(d.count / maxCount, 1.2) * 180;
     }
 
-    const baseA = proj(x, y);
-    const baseB = proj(x + 1, y);
-    const baseC = proj(x + 1, y + 1);
-    const baseD = proj(x, y + 1);
+    // Pontos da Base (Chão)
+    const baseA = proj(x, y);     // Topo (fundo)
+    const baseB = proj(x + 1, y); // Direita
+    const baseC = proj(x + 1, y + 1); // Baixo (frente)
+    const baseD = proj(x, y + 1); // Esquerda
 
+    // Pontos do Topo (Altura Z)
     const topA = proj(x, y, zHeight);
     const topB = proj(x + 1, y, zHeight);
     const topC = proj(x + 1, y + 1, zHeight);
     const topD = proj(x, y + 1, zHeight);
 
     const color = colorForCount(d.count);
-    const leftColor = shadeColor(color, -45);
-    const rightColor = shadeColor(color, -20);
+    const leftColor = shadeColor(color, -30);  // Parede esquerda mais escura
+    const rightColor = shadeColor(color, -10); // Parede direita um pouco mais clara
+
     const glowFilter = d.count / maxCount > 0.6 ? 'url(#neon-glow)' :
       d.count / maxCount > 0.3 ? 'url(#soft-glow)' : 'none';
 
     if (d.count > 0) {
-      // Lado esquerdo
-      pieces.push(`<polygon points="${baseD.x},${baseD.y} ${baseA.x},${baseA.y} ${topA.x},${topA.y} ${topD.x},${topD.y}" fill="${leftColor}"/>`);
+      // PAREDE ESQUERDA (FRENTE) - Entre baseD e baseC
+      pieces.push(`<polygon points="${baseD.x},${baseD.y} ${baseC.x},${baseC.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${leftColor}"/>`);
 
-      // Lado direito/inferior
+      // PAREDE DIREITA (FRENTE) - Entre baseB e baseC
       pieces.push(`<polygon points="${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${topC.x},${topC.y} ${topB.x},${topB.y}" fill="${rightColor}"/>`);
 
-      // Topo com glow
-      pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}"
-                    fill="${color}" stroke="${shadeColor(color, 40)}" stroke-width="1"
+      // TOPO (Teto do prédio)
+      pieces.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" 
+                    fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5" 
                     filter="${glowFilter}"/>`);
 
-      // LEDs nas laterais (prédios médios e altos)
-      if (d.count / maxCount > 0.4 && zHeight > 40) {
-        const steps = Math.floor(zHeight / 22);
-        for (let i = 1; i < steps; i++) {
-          const h = zHeight - i * 22;
-          const center = proj(x + 0.5, y + 0.5, h);
-          pieces.push(`<circle cx="${center.x}" cy="${center.y}" r="2" fill="#22d3ee" opacity="0.9"/>`);
+      // Detalhes: Janelas/LEDs laterais
+      if (zHeight > 50) {
+        const dots = Math.floor(zHeight / 30);
+        for (let i = 1; i <= dots; i++) {
+          const h = zHeight - (i * 25);
+          const pLeft = proj(x + 0.2, y + 1, h); // Janela na face esquerda
+          const pRight = proj(x + 1, y + 0.2, h); // Janela na face direita
+          pieces.push(`<circle cx="${pLeft.x}" cy="${pLeft.y}" r="1.5" fill="#22d3ee" opacity="0.8"/>`);
+          pieces.push(`<circle cx="${pRight.x}" cy="${pRight.y}" r="1.5" fill="#22d3ee" opacity="0.8"/>`);
         }
       }
     } else {
-      // Chão vazio com grid sutil
-      pieces.push(`<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}"
-                    fill="none" stroke="#232a3b" stroke-width="0.8" opacity="0.6"/>`);
+      // Chão vazio (Grid)
+      pieces.push(`<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${baseD.x},${baseD.y}" 
+                    fill="none" stroke="#232a3b" stroke-width="0.5" opacity="0.4"/>`);
     }
   });
 
