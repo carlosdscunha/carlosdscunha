@@ -50,8 +50,8 @@ function createSVG(days, opts) {
   const weeks = Math.max(...days.map(d => d.week)) + 1;
   const rows = 7;
   // Aumentei um pouco o tamanho dos blocos
-  const tileW = opts.tileW || 42;
-  const tileH = opts.tileH || 26;
+  const tileW = opts.tileW || 42 * 2;
+  const tileH = opts.tileH || 26 * 2;
   const maxCount = Math.max(...days.map(d => d.count)) || 1;
 
   // PALETA CYBERPUNK / ENGENHARIA
