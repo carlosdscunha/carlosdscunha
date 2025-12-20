@@ -254,6 +254,7 @@
     <polygon points="4650.0,2465.0 4755.0,2530.0 4650.0,2595.0 4545.0,2530.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="4650.0,2595.0 4755.0,2530.0 4755.0,2494.6 4650.0,2559.6" fill="#5628a5" stroke="none"/>
     <polygon points="4860.0,2595.0 4755.0,2660.0 4755.0,2624.6 4860.0,2559.6" fill="#6931c9" stroke="none"/>
+    <polygon points="4755.0,2530.0 4860.0,2595.0 4860.0,2559.6 4755.0,2494.6" fill="#6931c9" stroke="none"/>
     <polygon points="4755.0,2494.6 4860.0,2559.6 4755.0,2624.6 4650.0,2559.6" fill="#7c3aed" stroke="#9445ff" stroke-width="0.5"/>
     <polygon points="3495.0,2530.0 3600.0,2595.0 3495.0,2660.0 3390.0,2595.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="3705.0,2530.0 3810.0,2595.0 3705.0,2660.0 3600.0,2595.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
@@ -284,6 +285,7 @@
     <polygon points="5070.0,2725.0 5175.0,2790.0 5070.0,2855.0 4965.0,2790.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="4020.0,2855.0 4125.0,2790.0 4125.0,2776.1 4020.0,2841.1" fill="#200b46" stroke="none"/>
     <polygon points="4230.0,2855.0 4125.0,2920.0 4125.0,2906.1 4230.0,2841.1" fill="#270d55" stroke="none"/>
+    <polygon points="4125.0,2790.0 4230.0,2855.0 4230.0,2841.1 4125.0,2776.1" fill="#270d55" stroke="none"/>
     <polygon points="4125.0,2776.1 4230.0,2841.1 4125.0,2906.1 4020.0,2841.1" fill="#2e1065" stroke="#371379" stroke-width="0.5"/>
     <polygon points="3915.0,2790.0 4020.0,2855.0 3915.0,2920.0 3810.0,2855.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="4335.0,2790.0 4440.0,2855.0 4335.0,2920.0 4230.0,2855.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
@@ -293,6 +295,7 @@
     <polygon points="5175.0,2790.0 5280.0,2855.0 5175.0,2920.0 5070.0,2855.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="3915.0,2920.0 4020.0,2855.0 4020.0,2807.4 3915.0,2872.4" fill="#5628a5" stroke="none"/>
     <polygon points="4125.0,2920.0 4020.0,2985.0 4020.0,2937.4 4125.0,2872.4" fill="#6931c9" stroke="none"/>
+    <polygon points="4020.0,2855.0 4125.0,2920.0 4125.0,2872.4 4020.0,2807.4" fill="#6931c9" stroke="none"/>
     <polygon points="4020.0,2807.4 4125.0,2872.4 4020.0,2937.4 3915.0,2872.4" fill="#7c3aed" stroke="#9445ff" stroke-width="0.5"/>
     <polygon points="4230.0,2855.0 4335.0,2920.0 4230.0,2985.0 4125.0,2920.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="4440.0,2855.0 4545.0,2920.0 4440.0,2985.0 4335.0,2920.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
@@ -365,6 +368,7 @@
     <polygon points="6225.0,3440.0 6330.0,3505.0 6225.0,3570.0 6120.0,3505.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="5490.0,3635.0 5595.0,3570.0 5595.0,3424.0 5490.0,3489.0" fill="#b2b2b2" stroke="none"/>
     <polygon points="5700.0,3635.0 5595.0,3700.0 5595.0,3554.0 5700.0,3489.0" fill="#d8d8d8" stroke="none"/>
+    <polygon points="5595.0,3570.0 5700.0,3635.0 5700.0,3489.0 5595.0,3424.0" fill="#d8d8d8" stroke="none"/>
     <polygon points="5595.0,3424.0 5700.0,3489.0 5595.0,3554.0 5490.0,3489.0" fill="#ffffff" stroke="#ffffff" stroke-width="0.5"/>
     <polygon points="5070.0,3505.0 5175.0,3570.0 5070.0,3635.0 4965.0,3570.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="5280.0,3505.0 5385.0,3570.0 5280.0,3635.0 5175.0,3570.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
@@ -378,6 +382,7 @@
     <polygon points="6015.0,3570.0 6120.0,3635.0 6015.0,3700.0 5910.0,3635.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="5385.0,3700.0 5490.0,3635.0 5490.0,3533.5 5385.0,3598.5" fill="#1793a6" stroke="none"/>
     <polygon points="5595.0,3700.0 5490.0,3765.0 5490.0,3663.5 5595.0,3598.5" fill="#1cb3ca" stroke="none"/>
+    <polygon points="5490.0,3635.0 5595.0,3700.0 5595.0,3598.5 5490.0,3533.5" fill="#1cb3ca" stroke="none"/>
     <polygon points="5490.0,3533.5 5595.0,3598.5 5490.0,3663.5 5385.0,3598.5" fill="#22d3ee" stroke="#28fdff" stroke-width="0.5"/>
     <polygon points="5280.0,3635.0 5385.0,3700.0 5280.0,3765.0 5175.0,3700.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
     <polygon points="5700.0,3635.0 5805.0,3700.0 5700.0,3765.0 5595.0,3700.0" fill="none" stroke="#2d3748" stroke-width="0.5"/>
