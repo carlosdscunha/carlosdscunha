@@ -50,8 +50,8 @@ function createSVG(days, opts) {
   const weeks = Math.max(...days.map(d => d.week)) + 1;
   const rows = 7;
   // Aumentei um pouco o tamanho dos blocos
-  const tileW = opts.tileW || 42 * 5;
-  const tileH = opts.tileH || 26 * 5;
+  const tileW = opts.tileW || 42;
+  const tileH = opts.tileH || 26;
   const maxCount = Math.max(...days.map(d => d.count)) || 1;
 
   // PALETA CYBERPUNK / ENGENHARIA
@@ -134,7 +134,6 @@ function createSVG(days, opts) {
       // Lado de baixo
       svgParts.push(`<polygon points="${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${topC.x},${topC.y} ${topB.x},${topB.y}" fill="${rightColor}" stroke="none"/>`);
 
-      svgParts.push(`<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${topB.x},${topB.y} ${topA.x},${topA.y}" fill="${rightColor}" stroke="none"/>`);
 
       // Teto (Topo) - Com borda leve para destacar
       svgParts.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
