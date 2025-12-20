@@ -5,15 +5,15 @@
    Autor: Estudante de Engenharia da Computação
 */
 
-const { graphql } = require('@octokit/graphql');
-const fs = require('fs');
-const path = require('path');
+import { graphql } from '@octokit/graphql';
+import { existsSync, mkdirSync, writeFileSync } from 'fs';
+import { dirname } from 'path';
 const argv = require('minimist')(process.argv.slice(2));
 
 // Configurações visuais (você pode ajustar aqui)
 const CONFIG = {
-  tileW: 120,        // Largura do tile isométrico
-  tileH: 60,         // Altura do tile
+  tileW: 100,        // Largura do tile isométrico
+  tileH: 50,         // Altura do tile
   maxBuildingHeight: 180, // Altura máxima dos arranha-céus
   minBuildingHeight: 8,
   glowIntensity: 12, // Glow nos topos mais fortes
@@ -237,12 +237,12 @@ async function main() {
 
     const svg = createSVG(days);
 
-    const outDir = path.dirname(output);
-    if (!fs.existsSync(outDir)) {
-      fs.mkdirSync(outDir, { recursive: true });
+    const outDir = dirname(output);
+    if (!existsSync(outDir)) {
+      mkdirSync(outDir, { recursive: true });
     }
 
-    fs.writeFileSync(output, svg, 'utf8');
+    writeFileSync(output, svg, 'utf8');
     console.log(`✨ Cidade gerada com sucesso: ${output}`);
   } catch (error) {
     console.error('Erro:', error.message);
