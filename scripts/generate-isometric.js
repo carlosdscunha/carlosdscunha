@@ -134,6 +134,8 @@ function createSVG(days, opts) {
       // Lado de baixo
       svgParts.push(`<polygon points="${baseB.x},${baseB.y} ${baseC.x},${baseC.y} ${topC.x},${topC.y} ${topB.x},${topB.y}" fill="${rightColor}" stroke="none"/>`);
 
+      svgParts.push(`<polygon points="${baseA.x},${baseA.y} ${baseB.x},${baseB.y} ${topB.x},${topB.y} ${topA.x},${topA.y}" fill="${rightColor}" stroke="none"/>`);
+
       // Teto (Topo) - Com borda leve para destacar
       svgParts.push(`<polygon points="${topA.x},${topA.y} ${topB.x},${topB.y} ${topC.x},${topC.y} ${topD.x},${topD.y}" fill="${color}" stroke="${shadeColor(color, 20)}" stroke-width="0.5"/>`);
     } else {
