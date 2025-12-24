@@ -30,7 +30,9 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carlosdscunha&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=pt-br&hide_border=true&order=1" height="180" alt="stats graph" />
+  <a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card">
+    <img src="https://kasroudra-stats-card.onrender.com/user?user=carlosdscunha&theme=cobalt&color=917aff&bgcolor=090038&hcolor=8000ff" height="180" />
+  </a>
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdscunha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&count_private=true&order=2" height="180" alt="languages graph" />
 </div>
