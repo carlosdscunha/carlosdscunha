@@ -1,0 +1,19 @@
+# Pastas de dependências (Não subir para o GitHub)
+node_modules/
+dist/
+
+# Arquivos de ambiente com senhas ou Tokens (Segurança)
+.env
+.env.local
+
+# Configurações do VS Code
+.vscode/
+
+# Arquivos temporários do Linux
+.DS_Store
+*.log
+
+# Arquivos de compilação de C (Para AED II)
+*.o
+*.out
+*.exe
