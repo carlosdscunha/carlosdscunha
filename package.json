@@ -1,14 +1,17 @@
 {
   "name": "carlosdscunha-profile",
   "version": "1.0.0",
-  "description": "Gerador isométrico de cidade das contribuições do GitHub",
+  "description": "Gerador isométrico e estatísticas neon para GitHub",
   "main": "scripts/generate-isometric.js",
   "scripts": {
-    "generate:isometric": "node scripts/generate-isometric.js"
+    "generate:isometric": "node scripts/generate-isometric.js --user=carlosdscunha --out=assets/contrib-city.svg",
+    "generate:stats": "node scripts/gen-stats.js",
+    "generate:all": "npm run generate:isometric && npm run generate:stats"
   },
   "license": "MIT",
   "dependencies": {
-    "@octokit/graphql": "^5.0.0",
+    "@octokit/graphql": "^9.0.3",
+    "dotenv": "^17.2.3",
     "minimist": "^1.2.8"
   }
 }

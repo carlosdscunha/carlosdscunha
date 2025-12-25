@@ -1,7 +1,7 @@
 # Pastas de dependências (Não subir para o GitHub)
 node_modules/
 dist/
-
+test-env.js
 # Arquivos de ambiente com senhas ou Tokens (Segurança)
 .env
 .env.local

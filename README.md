@@ -30,18 +30,20 @@
 <br/>
 
 <div align="center">
-  <a href="https://github.com/KasRoudra/github-stats-card" alt="github-stats-card">
-    <img src="https://kasroudra-stats-card.onrender.com/user?user=carlosdscunha&theme=cobalt&color=917aff&bgcolor=090038&hcolor=8000ff" height="180" />
-  </a>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=carlosdscunha&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&count_private=true&order=2" height="180" alt="languages graph" />
+<h3>📊 Minhas Estatísticas (Engineered by Me)</h3>
+  <table border="0">
+    <tr>
+      <td align="center" width="55%" valign="center">
+        <img src="assets/contrib-city.svg" width="100%" />
+      </td>
+      <td align="center" width="45%" valign="center">
+        <img src="assets/my-lang-stats.svg" width="100%" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="assets/contrib-city.svg" width="100%" alt="Isometric contributions city" />
-</div>
 
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8e2de2,100:4a00e0&height=100&section=footer" />

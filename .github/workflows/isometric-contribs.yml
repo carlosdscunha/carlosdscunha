@@ -1,12 +1,17 @@
-name: Generate Isometric Contributions
+name: Update Profile Assets
 
 on:
   schedule:
-    - cron: '0 0 * * 0' # Semanalmente (Domingo)
-  workflow_dispatch: {}
+    - cron: "0 0 * * *" # Roda todo dia à meia-noite (Cuiabá)
+  workflow_dispatch: {} # Permite rodar manual
   push:
+    branches:
+      - main
     paths-ignore:
-      - 'assets/**'
+      - "assets/**"
+
+permissions:
+  contents: write # Essencial para o bot conseguir salvar as imagens
 
 jobs:
   build:
@@ -14,37 +19,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
 
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: "20" # Versão mais estável
+          cache: "npm"
 
-      # AGORA VAI FUNCIONAR:
-      # Como você criou o package-lock.json, o npm ci vai rodar liso!
-      - name: Install deps
-        run: npm ci
+      - name: Install dependencies
+        run: npm install # Usa o seu package.json organizado
 
-      - name: Generate isometric image
+      - name: Generate Assets
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: |
-          node scripts/generate-isometric.js --user=${{ github.repository_owner }} --out=assets/contrib-city.svg
-
-      - name: Check for changes
-        id: changes
-        run: |
-          echo "CHANGED=$(git status --porcelain | wc -l)" >> $GITHUB_OUTPUT
+          npm run generate:all
 
       - name: Commit and push
-        if: steps.changes.outputs.CHANGED != '0'
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/contrib-city.svg
-          git commit -m "chore: update isometric contrib city [skip ci]" || echo "no changes to commit"
-          git push origin HEAD:${{ github.ref }}
+          git add assets/contrib-city.svg assets/my-lang-stats.svg
+          git commit -m "chore: update profile assets [skip ci]" || echo "Sem mudanças para salvar"
+          git push
