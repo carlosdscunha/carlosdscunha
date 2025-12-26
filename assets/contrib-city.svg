@@ -853,7 +853,12 @@
     <circle cx="1178.3" cy="832.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
     <circle cx="1207.7" cy="832.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
     <polygon points="1235.0,865.0 1256.0,878.0 1235.0,891.0 1214.0,878.0" 
-                    fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
+        fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
+    <polygon points="1214.0,878.0 1235.0,891.0 1235.0,871.2 1214.0,858.2" fill="#311361"/>
+    <polygon points="1256.0,878.0 1235.0,891.0 1235.0,871.2 1256.0,858.2" fill="#41197f"/>
+    <polygon points="1235.0,845.2 1256.0,858.2 1235.0,871.2 1214.0,858.2" 
+                    fill="#4c1d95" stroke="#6326c2" stroke-width="0.7" 
+                    filter="none"/>
     <polygon points="1277.0,865.0 1298.0,878.0 1277.0,891.0 1256.0,878.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1172.0,878.0 1193.0,891.0 1172.0,904.0 1151.0,891.0" 
