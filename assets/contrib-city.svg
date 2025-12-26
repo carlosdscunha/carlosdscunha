@@ -64,10 +64,10 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="290.0,202.0 311.0,215.0 290.0,228.0 269.0,215.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="269.0,215.0 290.0,228.0 290.0,180.0 269.0,167.0" fill="#51269a"/>
-    <polygon points="311.0,215.0 290.0,228.0 290.0,180.0 311.0,167.0" fill="#6931c9"/>
-    <polygon points="290.0,154.0 311.0,167.0 290.0,180.0 269.0,167.0" 
-                    fill="#7c3aed" stroke="#a14bff" stroke-width="0.7" 
+    <polygon points="269.0,215.0 290.0,228.0 290.0,194.2 269.0,181.2" fill="#471a8d"/>
+    <polygon points="311.0,215.0 290.0,228.0 290.0,194.2 311.0,181.2" fill="#5d22b8"/>
+    <polygon points="290.0,168.2 311.0,181.2 290.0,194.2 269.0,181.2" 
+                    fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="332.0,202.0 353.0,215.0 332.0,228.0 311.0,215.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
@@ -541,9 +541,9 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1046.0,644.0 1067.0,657.0 1046.0,670.0 1025.0,657.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1025.0,657.0 1046.0,670.0 1046.0,631.7 1025.0,618.7" fill="#471a8d"/>
-    <polygon points="1067.0,657.0 1046.0,670.0 1046.0,631.7 1067.0,618.7" fill="#5d22b8"/>
-    <polygon points="1046.0,605.7 1067.0,618.7 1046.0,631.7 1025.0,618.7" 
+    <polygon points="1025.0,657.0 1046.0,670.0 1046.0,642.1 1025.0,629.1" fill="#471a8d"/>
+    <polygon points="1067.0,657.0 1046.0,670.0 1046.0,642.1 1067.0,629.1" fill="#5d22b8"/>
+    <polygon points="1046.0,616.1 1067.0,629.1 1046.0,642.1 1025.0,629.1" 
                     fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="815.0,657.0 836.0,670.0 815.0,683.0 794.0,670.0" 
@@ -592,10 +592,10 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="920.0,696.0 941.0,709.0 920.0,722.0 899.0,709.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="899.0,709.0 920.0,722.0 920.0,693.2 899.0,680.2" fill="#471a8d"/>
-    <polygon points="941.0,709.0 920.0,722.0 920.0,693.2 941.0,680.2" fill="#5d22b8"/>
-    <polygon points="920.0,667.2 941.0,680.2 920.0,693.2 899.0,680.2" 
-                    fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
+    <polygon points="899.0,709.0 920.0,722.0 920.0,699.8 899.0,686.8" fill="#311361"/>
+    <polygon points="941.0,709.0 920.0,722.0 920.0,699.8 941.0,686.8" fill="#41197f"/>
+    <polygon points="920.0,673.8 941.0,686.8 920.0,699.8 899.0,686.8" 
+                    fill="#4c1d95" stroke="#6326c2" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="962.0,696.0 983.0,709.0 962.0,722.0 941.0,709.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
@@ -609,9 +609,9 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="899.0,709.0 920.0,722.0 899.0,735.0 878.0,722.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="878.0,722.0 899.0,735.0 899.0,696.7 878.0,683.7" fill="#471a8d"/>
-    <polygon points="920.0,722.0 899.0,735.0 899.0,696.7 920.0,683.7" fill="#5d22b8"/>
-    <polygon points="899.0,670.7 920.0,683.7 899.0,696.7 878.0,683.7" 
+    <polygon points="878.0,722.0 899.0,735.0 899.0,707.1 878.0,694.1" fill="#471a8d"/>
+    <polygon points="920.0,722.0 899.0,735.0 899.0,707.1 920.0,694.1" fill="#5d22b8"/>
+    <polygon points="899.0,681.1 920.0,694.1 899.0,707.1 878.0,694.1" 
                     fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="941.0,709.0 962.0,722.0 941.0,735.0 920.0,722.0" 
@@ -622,19 +622,19 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1067.0,709.0 1088.0,722.0 1067.0,735.0 1046.0,722.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1046.0,722.0 1067.0,735.0 1067.0,696.7 1046.0,683.7" fill="#471a8d"/>
-    <polygon points="1088.0,722.0 1067.0,735.0 1067.0,696.7 1088.0,683.7" fill="#5d22b8"/>
-    <polygon points="1067.0,670.7 1088.0,683.7 1067.0,696.7 1046.0,683.7" 
+    <polygon points="1046.0,722.0 1067.0,735.0 1067.0,707.1 1046.0,694.1" fill="#471a8d"/>
+    <polygon points="1088.0,722.0 1067.0,735.0 1067.0,707.1 1088.0,694.1" fill="#5d22b8"/>
+    <polygon points="1067.0,681.1 1088.0,694.1 1067.0,707.1 1046.0,694.1" 
                     fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="1109.0,709.0 1130.0,722.0 1109.0,735.0 1088.0,722.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1151.0,709.0 1172.0,722.0 1151.0,735.0 1130.0,722.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1130.0,722.0 1151.0,735.0 1151.0,687.0 1130.0,674.0" fill="#51269a"/>
-    <polygon points="1172.0,722.0 1151.0,735.0 1151.0,687.0 1172.0,674.0" fill="#6931c9"/>
-    <polygon points="1151.0,661.0 1172.0,674.0 1151.0,687.0 1130.0,674.0" 
-                    fill="#7c3aed" stroke="#a14bff" stroke-width="0.7" 
+    <polygon points="1130.0,722.0 1151.0,735.0 1151.0,701.2 1130.0,688.2" fill="#471a8d"/>
+    <polygon points="1172.0,722.0 1151.0,735.0 1151.0,701.2 1172.0,688.2" fill="#5d22b8"/>
+    <polygon points="1151.0,675.2 1172.0,688.2 1151.0,701.2 1130.0,688.2" 
+                    fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="920.0,722.0 941.0,735.0 920.0,748.0 899.0,735.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
@@ -742,39 +742,33 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1193.0,813.0 1214.0,826.0 1193.0,839.0 1172.0,826.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1172.0,826.0 1193.0,839.0 1193.0,819.2 1172.0,806.2" fill="#311361"/>
-    <polygon points="1214.0,826.0 1193.0,839.0 1193.0,819.2 1214.0,806.2" fill="#41197f"/>
-    <polygon points="1193.0,793.2 1214.0,806.2 1193.0,819.2 1172.0,806.2" 
+    <polygon points="1172.0,826.0 1193.0,839.0 1193.0,822.3 1172.0,809.3" fill="#311361"/>
+    <polygon points="1214.0,826.0 1193.0,839.0 1193.0,822.3 1214.0,809.3" fill="#41197f"/>
+    <polygon points="1193.0,796.3 1214.0,809.3 1193.0,822.3 1172.0,809.3" 
                     fill="#4c1d95" stroke="#6326c2" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="1235.0,813.0 1256.0,826.0 1235.0,839.0 1214.0,826.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1214.0,826.0 1235.0,839.0 1235.0,819.2 1214.0,806.2" fill="#311361"/>
-    <polygon points="1256.0,826.0 1235.0,839.0 1235.0,819.2 1256.0,806.2" fill="#41197f"/>
-    <polygon points="1235.0,793.2 1256.0,806.2 1235.0,819.2 1214.0,806.2" 
+    <polygon points="1214.0,826.0 1235.0,839.0 1235.0,822.3 1214.0,809.3" fill="#311361"/>
+    <polygon points="1256.0,826.0 1235.0,839.0 1235.0,822.3 1256.0,809.3" fill="#41197f"/>
+    <polygon points="1235.0,796.3 1256.0,809.3 1235.0,822.3 1214.0,809.3" 
                     fill="#4c1d95" stroke="#6326c2" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="1277.0,813.0 1298.0,826.0 1277.0,839.0 1256.0,826.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1319.0,813.0 1340.0,826.0 1319.0,839.0 1298.0,826.0" 
         fill="#22d3ee" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1298.0,826.0 1319.0,839.0 1319.0,627.0 1298.0,614.0" fill="#93979c"/>
-    <polygon points="1340.0,826.0 1319.0,839.0 1319.0,627.0 1340.0,614.0" fill="#c0c5cc"/>
-    <polygon points="1319.0,601.0 1340.0,614.0 1319.0,627.0 1298.0,614.0" 
-                    fill="#e2e8f0" stroke="#ffffff" stroke-width="0.7" 
+    <polygon points="1298.0,826.0 1319.0,839.0 1319.0,706.0 1298.0,693.0" fill="#5a1c93"/>
+    <polygon points="1340.0,826.0 1319.0,839.0 1319.0,706.0 1340.0,693.0" fill="#7525c0"/>
+    <polygon points="1319.0,680.0 1340.0,693.0 1319.0,706.0 1298.0,693.0" 
+                    fill="#8a2be2" stroke="#b338ff" stroke-width="0.7" 
                     filter="url(#neon-glow)"/>
-    <circle cx="1304.3" cy="640.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1333.7" cy="640.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1304.3" cy="668.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1333.7" cy="668.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1304.3" cy="696.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1333.7" cy="696.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1304.3" cy="724.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1333.7" cy="724.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1304.3" cy="752.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1333.7" cy="752.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1304.3" cy="780.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1333.7" cy="780.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1304.3" cy="719.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1333.7" cy="719.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1304.3" cy="747.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1333.7" cy="747.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1304.3" cy="775.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1333.7" cy="775.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
     <polygon points="1088.0,826.0 1109.0,839.0 1088.0,852.0 1067.0,839.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1130.0,826.0 1151.0,839.0 1130.0,852.0 1109.0,839.0" 
@@ -787,9 +781,9 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1298.0,826.0 1319.0,839.0 1298.0,852.0 1277.0,839.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1277.0,839.0 1298.0,852.0 1298.0,832.2 1277.0,819.2" fill="#311361"/>
-    <polygon points="1319.0,839.0 1298.0,852.0 1298.0,832.2 1319.0,819.2" fill="#41197f"/>
-    <polygon points="1298.0,806.2 1319.0,819.2 1298.0,832.2 1277.0,819.2" 
+    <polygon points="1277.0,839.0 1298.0,852.0 1298.0,835.3 1277.0,822.3" fill="#311361"/>
+    <polygon points="1319.0,839.0 1298.0,852.0 1298.0,835.3 1319.0,822.3" fill="#41197f"/>
+    <polygon points="1298.0,809.3 1319.0,822.3 1298.0,835.3 1277.0,822.3" 
                     fill="#4c1d95" stroke="#6326c2" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="1340.0,826.0 1361.0,839.0 1340.0,852.0 1319.0,839.0" 
@@ -802,10 +796,10 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1235.0,839.0 1256.0,852.0 1235.0,865.0 1214.0,852.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1214.0,852.0 1235.0,865.0 1235.0,836.2 1214.0,823.2" fill="#471a8d"/>
-    <polygon points="1256.0,852.0 1235.0,865.0 1235.0,836.2 1256.0,823.2" fill="#5d22b8"/>
-    <polygon points="1235.0,810.2 1256.0,823.2 1235.0,836.2 1214.0,823.2" 
-                    fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
+    <polygon points="1214.0,852.0 1235.0,865.0 1235.0,842.8 1214.0,829.8" fill="#311361"/>
+    <polygon points="1256.0,852.0 1235.0,865.0 1235.0,842.8 1256.0,829.8" fill="#41197f"/>
+    <polygon points="1235.0,816.8 1256.0,829.8 1235.0,842.8 1214.0,829.8" 
+                    fill="#4c1d95" stroke="#6326c2" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="1277.0,839.0 1298.0,852.0 1277.0,865.0 1256.0,852.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
@@ -817,48 +811,54 @@
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1214.0,852.0 1235.0,865.0 1214.0,878.0 1193.0,865.0" 
         fill="#22d3ee" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1193.0,865.0 1214.0,878.0 1214.0,723.1 1193.0,710.1" fill="#6728a6"/>
-    <polygon points="1235.0,865.0 1214.0,878.0 1214.0,723.1 1235.0,710.1" fill="#8634d9"/>
-    <polygon points="1214.0,697.1 1235.0,710.1 1214.0,723.1 1193.0,710.1" 
-                    fill="#9e3dff" stroke="#cd4fff" stroke-width="0.7" 
-                    filter="url(#neon-glow)"/>
-    <circle cx="1199.3" cy="736.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1228.7" cy="736.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1199.3" cy="764.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1228.7" cy="764.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1199.3" cy="792.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1228.7" cy="792.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1199.3" cy="820.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1228.7" cy="820.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <polygon points="1193.0,865.0 1214.0,878.0 1214.0,779.5 1193.0,766.5" fill="#5a1c93"/>
+    <polygon points="1235.0,865.0 1214.0,878.0 1214.0,779.5 1235.0,766.5" fill="#7525c0"/>
+    <polygon points="1214.0,753.5 1235.0,766.5 1214.0,779.5 1193.0,766.5" 
+                    fill="#8a2be2" stroke="#b338ff" stroke-width="0.7" 
+                    filter="url(#soft-glow)"/>
+    <circle cx="1199.3" cy="793.2" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1228.7" cy="793.2" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1199.3" cy="821.2" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1228.7" cy="821.2" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
     <polygon points="1256.0,852.0 1277.0,865.0 1256.0,878.0 1235.0,865.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1235.0,865.0 1256.0,878.0 1256.0,830.0 1235.0,817.0" fill="#51269a"/>
-    <polygon points="1277.0,865.0 1256.0,878.0 1256.0,830.0 1277.0,817.0" fill="#6931c9"/>
-    <polygon points="1256.0,804.0 1277.0,817.0 1256.0,830.0 1235.0,817.0" 
-                    fill="#7c3aed" stroke="#a14bff" stroke-width="0.7" 
+    <polygon points="1235.0,865.0 1256.0,878.0 1256.0,844.2 1235.0,831.2" fill="#471a8d"/>
+    <polygon points="1277.0,865.0 1256.0,878.0 1256.0,844.2 1277.0,831.2" fill="#5d22b8"/>
+    <polygon points="1256.0,818.2 1277.0,831.2 1256.0,844.2 1235.0,831.2" 
+                    fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
                     filter="none"/>
     <polygon points="1298.0,852.0 1319.0,865.0 1298.0,878.0 1277.0,865.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1151.0,865.0 1172.0,878.0 1151.0,891.0 1130.0,878.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1193.0,865.0 1214.0,878.0 1193.0,891.0 1172.0,878.0" 
-        fill="#22d3ee" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1172.0,878.0 1193.0,891.0 1193.0,791.1 1172.0,778.1" fill="#5a1c93"/>
-    <polygon points="1214.0,878.0 1193.0,891.0 1193.0,791.1 1214.0,778.1" fill="#7525c0"/>
-    <polygon points="1193.0,765.1 1214.0,778.1 1193.0,791.1 1172.0,778.1" 
-                    fill="#8a2be2" stroke="#b338ff" stroke-width="0.7" 
-                    filter="url(#soft-glow)"/>
-    <circle cx="1178.3" cy="804.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1207.7" cy="804.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1178.3" cy="832.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <circle cx="1207.7" cy="832.8" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
-    <polygon points="1235.0,865.0 1256.0,878.0 1235.0,891.0 1214.0,878.0" 
         fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="1214.0,878.0 1235.0,891.0 1235.0,871.2 1214.0,858.2" fill="#311361"/>
-    <polygon points="1256.0,878.0 1235.0,891.0 1235.0,871.2 1256.0,858.2" fill="#41197f"/>
-    <polygon points="1235.0,845.2 1256.0,858.2 1235.0,871.2 1214.0,858.2" 
-                    fill="#4c1d95" stroke="#6326c2" stroke-width="0.7" 
+    <polygon points="1172.0,878.0 1193.0,891.0 1193.0,825.8 1172.0,812.8" fill="#51269a"/>
+    <polygon points="1214.0,878.0 1193.0,891.0 1193.0,825.8 1214.0,812.8" fill="#6931c9"/>
+    <polygon points="1193.0,799.8 1214.0,812.8 1193.0,825.8 1172.0,812.8" 
+                    fill="#7c3aed" stroke="#a14bff" stroke-width="0.7" 
                     filter="none"/>
+    <circle cx="1178.3" cy="839.5" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1207.7" cy="839.5" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <polygon points="1235.0,865.0 1256.0,878.0 1235.0,891.0 1214.0,878.0" 
+        fill="#22d3ee" opacity="0.3" filter="url(#floor-blur)"/>
+    <polygon points="1214.0,878.0 1235.0,891.0 1235.0,679.0 1214.0,666.0" fill="#93979c"/>
+    <polygon points="1256.0,878.0 1235.0,891.0 1235.0,679.0 1256.0,666.0" fill="#c0c5cc"/>
+    <polygon points="1235.0,653.0 1256.0,666.0 1235.0,679.0 1214.0,666.0" 
+                    fill="#e2e8f0" stroke="#ffffff" stroke-width="0.7" 
+                    filter="url(#neon-glow)"/>
+    <circle cx="1220.3" cy="692.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1249.7" cy="692.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1220.3" cy="720.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1249.7" cy="720.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1220.3" cy="748.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1249.7" cy="748.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1220.3" cy="776.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1249.7" cy="776.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1220.3" cy="804.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1249.7" cy="804.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1220.3" cy="832.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
+    <circle cx="1249.7" cy="832.7" r="1.8" fill="#ffe100" filter="url(#neon-glow)"/>
     <polygon points="1277.0,865.0 1298.0,878.0 1277.0,891.0 1256.0,878.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="1172.0,878.0 1193.0,891.0 1172.0,904.0 1151.0,891.0" 
