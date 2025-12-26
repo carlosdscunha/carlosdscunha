@@ -63,12 +63,7 @@
     <polygon points="248.0,202.0 269.0,215.0 248.0,228.0 227.0,215.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="290.0,202.0 311.0,215.0 290.0,228.0 269.0,215.0" 
-        fill="#c026d3" opacity="0.3" filter="url(#floor-blur)"/>
-    <polygon points="269.0,215.0 290.0,228.0 290.0,194.2 269.0,181.2" fill="#471a8d"/>
-    <polygon points="311.0,215.0 290.0,228.0 290.0,194.2 311.0,181.2" fill="#5d22b8"/>
-    <polygon points="290.0,168.2 311.0,181.2 290.0,194.2 269.0,181.2" 
-                    fill="#6d28d9" stroke="#8e34ff" stroke-width="0.7" 
-                    filter="none"/>
+                    fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="332.0,202.0 353.0,215.0 332.0,228.0 311.0,215.0" 
                     fill="none" stroke="#0d1117" stroke-width="0.4" opacity="0.5"/>
     <polygon points="185.0,215.0 206.0,228.0 185.0,241.0 164.0,228.0" 
