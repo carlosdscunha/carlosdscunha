@@ -2,8 +2,8 @@ name: Update Profile Assets
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Roda todo dia à meia-noite (Cuiabá)
-  workflow_dispatch: {} # Permite rodar manual
+    - cron: "0 */24 * * *" # Roda todo dia
+  workflow_dispatch: # Permite rodar manual
   push:
     branches:
       - main
@@ -23,10 +23,10 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: "20" # Versão mais estável
+          node-version: "20.x" # Versão mais estável
           cache: "npm"
 
-      - name: Install dependencies
+      - name: Install Dependencies
         run: npm install # Usa o seu package.json organizado
 
       - name: Generate Assets
@@ -42,3 +42,5 @@ jobs:
           git add assets/contrib-city.svg assets/my-lang-stats.svg
           git commit -m "chore: update profile assets [skip ci]" || echo "Sem mudanças para salvar"
           git push
+
+          
