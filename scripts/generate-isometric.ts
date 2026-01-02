@@ -358,7 +358,7 @@ function createSVG(days: FlattenedDay[], opts: any): string {
     ${grids.join("\n    ")}
     ${pieces.join("\n    ")}
   </g>
-  <text x="60" y="${height - 60}" class="title-text">CONTRIBUTION CITY • 2025</text>
+  <text x="60" y="${height - 60}" class="title-text">CONTRIBUTION CITY • ${opts.year}</text>
 </svg>`;
 
   return svg;
@@ -386,7 +386,7 @@ async function main(): Promise<void> {
     const outDir = path.dirname(out);
     if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
-    const svg = createSVG(days, {});
+    const svg = createSVG(days, { year: year });
     fs.writeFileSync(out, svg, "utf8");
 
     console.log(`Cidade cyberpunk gerada com sucesso: ${out}`);
