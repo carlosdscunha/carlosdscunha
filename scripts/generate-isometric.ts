@@ -95,8 +95,8 @@ function createSVG(days: FlattenedDay[], opts: any): string {
   const weeks = Math.max(...days.map((d) => d.week)) + 2;
   const rows = 4;
 
-  const tileW = opts.tileW || 102 * 0.5;
-  const tileH = opts.tileH || 26 * 0.5;
+  const tileW = opts.tileW || 51;
+  const tileH = opts.tileH || 13;
   const maxCount = Math.max(...days.map((d) => d.count), 1);
 
   const colors = {
@@ -113,8 +113,8 @@ function createSVG(days: FlattenedDay[], opts: any): string {
     ],
   };
 
-  const width = (weeks + rows) * (tileW / 2) + 150 * 0.4;
-  const height = (weeks + rows) * (tileH / 2) + 400 * 0.5;
+  const width = (weeks + rows) * (tileW / 2) + 60;
+  const height = (weeks + rows) * (tileH / 2) + 200;
 
   // Ajuste da origem para centralizar melhor
   const originX = 80 + rows * (tileW / 2);
@@ -197,7 +197,7 @@ function createSVG(days: FlattenedDay[], opts: any): string {
   // Ordenação (Painter's Algorithm)
   days.sort((a, b) => a.week + a.dow - (b.week + b.dow));
 
-  const janePos = 1.8;
+  const janePos = 1.4;
 
   days.forEach((d) => {
     const x = d.week;
@@ -287,12 +287,12 @@ function createSVG(days: FlattenedDay[], opts: any): string {
 
       // Detalhes: Janelas/LEDs laterais com brilho
       if (zHeight > 35) {
-        const dots = Math.floor(zHeight / 15);
-        const ledSize = 5; // Tamanho do LED em unidades de altura
+        const dots = Math.floor(zHeight / 22);
+        const ledSize = 10; // Tamanho do LED em unidades de altura
 
 
-        for (let i = 0; i <= dots; i++) {
-          const h = zHeight - i * 12;
+        for (let i = 0; i < dots; i++) {
+          const h = zHeight - i * 20;
           let nextSpan = begin + random(2.5, 5);
 
           // --- PAREDE ESQUERDA (Varia Y e H) ---
@@ -386,7 +386,7 @@ async function main(): Promise<void> {
     const outDir = path.dirname(out);
     if (!fs.existsSync(outDir)) fs.mkdirSync(outDir, { recursive: true });
 
-    const svg = createSVG(days, { year: year });
+    const svg = createSVG(days, { year: year, tileW: 80, tileH: 25 });
     fs.writeFileSync(out, svg, "utf8");
 
     console.log(`Cidade cyberpunk gerada com sucesso: ${out}`);
