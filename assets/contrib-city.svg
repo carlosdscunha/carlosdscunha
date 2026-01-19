@@ -42,7 +42,7 @@
     <polygon points="240.0,150.0 280.0,162.5 240.0,175.0 200.0,162.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5379862172635949s"
+        begin="1.681485944060534s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -53,7 +53,7 @@
     <polygon points="200.0,162.5 240.0,175.0 200.0,187.5 160.0,175.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.810906637127418s"
+        begin="2.498953423382884s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -64,7 +64,7 @@
     <polygon points="280.0,162.5 320.0,175.0 280.0,187.5 240.0,175.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9920325539355863s"
+        begin="2.254411510278655s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -75,7 +75,7 @@
     <polygon points="160.0,175.0 200.0,187.5 160.0,200.0 120.0,187.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.950411171033414s"
+        begin="2.141840154564236s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -86,18 +86,7 @@
     <polygon points="200.0,187.5 240.0,200.0 200.0,212.5 160.0,200.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.4788646521058246s"
-        dur="1.5s"
-        repeatCount="indefinite"
-        calcMode="spline"
-        keyTimes="0; 0.5; 1"
-        keySplines="0.19 1 0.22 1; 0.19 1 0.22 1"
-        values="0.0; 1.0; 0.0" />
-    </polygon>
-    <polygon points="360.0,187.5 400.0,200.0 360.0,212.5 320.0,200.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
-      <animate
-        attributeName="opacity"
-        begin="3.953985476863056s"
+        begin="2.971767997824603s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -108,7 +97,7 @@
     <polygon points="240.0,200.0 280.0,212.5 240.0,225.0 200.0,212.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9128049979770876s"
+        begin="0.9654446502823525s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -119,7 +108,7 @@
     <polygon points="320.0,200.0 360.0,212.5 320.0,225.0 280.0,212.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.7268977849525067s"
+        begin="2.834568973016163s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -130,7 +119,7 @@
     <polygon points="400.0,200.0 440.0,212.5 400.0,225.0 360.0,212.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.885098041030651s"
+        begin="1.5368147692296377s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -141,7 +130,7 @@
     <polygon points="120.0,212.5 160.0,225.0 120.0,237.5 80.0,225.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6305117057529164s"
+        begin="2.638056065477344s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -152,7 +141,7 @@
     <polygon points="200.0,212.5 240.0,225.0 200.0,237.5 160.0,225.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.8586980291746054s"
+        begin="1.7170545400372146s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -163,7 +152,7 @@
     <polygon points="280.0,212.5 320.0,225.0 280.0,237.5 240.0,225.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.3473143686469187s"
+        begin="3.5778174994722223s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -174,7 +163,7 @@
     <polygon points="360.0,212.5 400.0,225.0 360.0,237.5 320.0,225.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7754642156544028s"
+        begin="1.7117595759078852s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -185,7 +174,7 @@
     <polygon points="440.0,212.5 480.0,225.0 440.0,237.5 400.0,225.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.0712794718900005s"
+        begin="0.8246789430290017s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -196,7 +185,7 @@
     <polygon points="160.0,225.0 200.0,237.5 160.0,250.0 120.0,237.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7801414701505064s"
+        begin="2.074284442510997s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -207,7 +196,7 @@
     <polygon points="240.0,225.0 280.0,237.5 240.0,250.0 200.0,237.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.659947846533886s"
+        begin="2.446425998289446s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -218,7 +207,7 @@
     <polygon points="320.0,225.0 360.0,237.5 320.0,250.0 280.0,237.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5676109712831435s"
+        begin="3.372665124890707s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -229,7 +218,7 @@
     <polygon points="400.0,225.0 440.0,237.5 400.0,250.0 360.0,237.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2944701257148685s"
+        begin="2.9748041855252243s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -240,7 +229,7 @@
     <polygon points="480.0,225.0 520.0,237.5 480.0,250.0 440.0,237.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5083259766058227s"
+        begin="3.4603476070810304s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -251,7 +240,7 @@
     <polygon points="40.0,237.5 80.0,250.0 40.0,262.5 0.0,250.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8267477894375894s"
+        begin="3.189674653285498s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -262,7 +251,7 @@
     <polygon points="120.0,237.5 160.0,250.0 120.0,262.5 80.0,250.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.029257911391944s"
+        begin="1.9523953334892155s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -273,7 +262,7 @@
     <polygon points="200.0,237.5 240.0,250.0 200.0,262.5 160.0,250.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.827182277646341s"
+        begin="0.9099888150618458s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -284,7 +273,7 @@
     <polygon points="280.0,237.5 320.0,250.0 280.0,262.5 240.0,250.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.238169334751017s"
+        begin="3.678278110415083s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -295,7 +284,7 @@
     <polygon points="360.0,237.5 400.0,250.0 360.0,262.5 320.0,250.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8711251805851594s"
+        begin="1.7067497820792772s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -306,7 +295,7 @@
     <polygon points="440.0,237.5 480.0,250.0 440.0,262.5 400.0,250.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.50148184560987s"
+        begin="1.3432317299747398s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -317,7 +306,7 @@
     <polygon points="520.0,237.5 560.0,250.0 520.0,262.5 480.0,250.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7773435605375173s"
+        begin="0.8634047201705917s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -328,7 +317,7 @@
     <polygon points="80.0,250.0 120.0,262.5 80.0,275.0 40.0,262.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.5384564766282736s"
+        begin="3.938020886424064s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -339,7 +328,7 @@
     <polygon points="160.0,250.0 200.0,262.5 160.0,275.0 120.0,262.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8156239978506782s"
+        begin="2.920688463026082s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -350,7 +339,7 @@
     <polygon points="240.0,250.0 280.0,262.5 240.0,275.0 200.0,262.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.1081742157758083s"
+        begin="2.733088456145335s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -361,7 +350,7 @@
     <polygon points="320.0,250.0 360.0,262.5 320.0,275.0 280.0,262.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.4424240273223243s"
+        begin="2.1904894648954794s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -372,7 +361,7 @@
     <polygon points="400.0,250.0 440.0,262.5 400.0,275.0 360.0,262.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.2506979941292005s"
+        begin="1.218776432493204s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -383,7 +372,7 @@
     <polygon points="480.0,250.0 520.0,262.5 480.0,275.0 440.0,262.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.2445891119214196s"
+        begin="3.2302542169697572s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -394,7 +383,7 @@
     <polygon points="560.0,250.0 600.0,262.5 560.0,275.0 520.0,262.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.962431066120687s"
+        begin="2.871224735908849s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -405,7 +394,7 @@
     <polygon points="120.0,262.5 160.0,275.0 120.0,287.5 80.0,275.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.9034599352889074s"
+        begin="1.9865727530159858s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -416,7 +405,7 @@
     <polygon points="200.0,262.5 240.0,275.0 200.0,287.5 160.0,275.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.7881064497503028s"
+        begin="2.7643368687337695s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -427,7 +416,7 @@
     <polygon points="280.0,262.5 320.0,275.0 280.0,287.5 240.0,275.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9552891926543015s"
+        begin="3.8044611541867903s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -438,7 +427,7 @@
     <polygon points="360.0,262.5 400.0,275.0 360.0,287.5 320.0,275.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.266159817885281s"
+        begin="3.1693566519549776s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -449,7 +438,7 @@
     <polygon points="440.0,262.5 480.0,275.0 440.0,287.5 400.0,275.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.6363747951828396s"
+        begin="1.225577784079316s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -460,7 +449,7 @@
     <polygon points="520.0,262.5 560.0,275.0 520.0,287.5 480.0,275.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7417967743855753s"
+        begin="1.3822467920106873s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -471,7 +460,7 @@
     <polygon points="600.0,262.5 640.0,275.0 600.0,287.5 560.0,275.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.107217820578878s"
+        begin="0.7762272757055025s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -482,7 +471,7 @@
     <polygon points="160.0,275.0 200.0,287.5 160.0,300.0 120.0,287.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.4916176625712443s"
+        begin="1.1407721249840925s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -493,7 +482,7 @@
     <polygon points="240.0,275.0 280.0,287.5 240.0,300.0 200.0,287.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.0031877324352343s"
+        begin="1.960701954008369s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -504,7 +493,7 @@
     <polygon points="320.0,275.0 360.0,287.5 320.0,300.0 280.0,287.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.135465217624448s"
+        begin="0.7048629551760183s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -515,7 +504,7 @@
     <polygon points="400.0,275.0 440.0,287.5 400.0,300.0 360.0,287.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5590529522435835s"
+        begin="0.9792926214184984s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -526,7 +515,7 @@
     <polygon points="480.0,275.0 520.0,287.5 480.0,300.0 440.0,287.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.3131787032706126s"
+        begin="2.3921263426146355s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -537,7 +526,7 @@
     <polygon points="560.0,275.0 600.0,287.5 560.0,300.0 520.0,287.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.5328523414353787s"
+        begin="2.064769565514873s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -548,7 +537,7 @@
     <polygon points="640.0,275.0 680.0,287.5 640.0,300.0 600.0,287.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.826330063864414s"
+        begin="2.5672466778084475s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -559,7 +548,7 @@
     <polygon points="200.0,287.5 240.0,300.0 200.0,312.5 160.0,300.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.4781555652421985s"
+        begin="1.7742363240510461s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -570,7 +559,7 @@
     <polygon points="280.0,287.5 320.0,300.0 280.0,312.5 240.0,300.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.608060880738104s"
+        begin="3.253399556438236s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -581,7 +570,7 @@
     <polygon points="360.0,287.5 400.0,300.0 360.0,312.5 320.0,300.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.3098732062953387s"
+        begin="1.860266015431085s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -592,7 +581,7 @@
     <polygon points="440.0,287.5 480.0,300.0 440.0,312.5 400.0,300.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.189493024480567s"
+        begin="1.3349984961667143s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -603,7 +592,7 @@
     <polygon points="520.0,287.5 560.0,300.0 520.0,312.5 480.0,300.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.2239737298936975s"
+        begin="3.8198463751924705s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -614,7 +603,7 @@
     <polygon points="600.0,287.5 640.0,300.0 600.0,312.5 560.0,300.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.6635553468885873s"
+        begin="3.777706497216909s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -625,7 +614,7 @@
     <polygon points="680.0,287.5 720.0,300.0 680.0,312.5 640.0,300.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9181322960418727s"
+        begin="2.8335784092218885s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -636,7 +625,7 @@
     <polygon points="240.0,300.0 280.0,312.5 240.0,325.0 200.0,312.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.1291958486153715s"
+        begin="2.4045486833436573s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -647,7 +636,7 @@
     <polygon points="320.0,300.0 360.0,312.5 320.0,325.0 280.0,312.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.05795817135143s"
+        begin="3.6763739297157576s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -658,7 +647,7 @@
     <polygon points="400.0,300.0 440.0,312.5 400.0,325.0 360.0,312.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.3098962757216341s"
+        begin="2.5087692508673256s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -669,7 +658,7 @@
     <polygon points="480.0,300.0 520.0,312.5 480.0,325.0 440.0,312.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5838426747738673s"
+        begin="1.906215475575075s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -680,7 +669,7 @@
     <polygon points="560.0,300.0 600.0,312.5 560.0,325.0 520.0,312.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.01185094064416s"
+        begin="0.5415008521454798s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -691,7 +680,7 @@
     <polygon points="640.0,300.0 680.0,312.5 640.0,325.0 600.0,312.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.5581550638932553s"
+        begin="3.435243541305057s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -702,7 +691,7 @@
     <polygon points="720.0,300.0 760.0,312.5 720.0,325.0 680.0,312.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.968386651853025s"
+        begin="0.9891896689049869s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -713,7 +702,7 @@
     <polygon points="280.0,312.5 320.0,325.0 280.0,337.5 240.0,325.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4436431684847202s"
+        begin="3.7396039782497903s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -724,7 +713,7 @@
     <polygon points="360.0,312.5 400.0,325.0 360.0,337.5 320.0,325.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.560467795005641s"
+        begin="2.924055603675262s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -735,7 +724,7 @@
     <polygon points="440.0,312.5 480.0,325.0 440.0,337.5 400.0,325.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9587953721831886s"
+        begin="2.3949598600069884s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -746,7 +735,7 @@
     <polygon points="520.0,312.5 560.0,325.0 520.0,337.5 480.0,325.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.3743060444732251s"
+        begin="2.089929710449425s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -757,7 +746,7 @@
     <polygon points="600.0,312.5 640.0,325.0 600.0,337.5 560.0,325.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2969764492737124s"
+        begin="2.6497406203891227s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -768,7 +757,7 @@
     <polygon points="680.0,312.5 720.0,325.0 680.0,337.5 640.0,325.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8630232127529205s"
+        begin="3.4208609261177223s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -779,7 +768,7 @@
     <polygon points="760.0,312.5 800.0,325.0 760.0,337.5 720.0,325.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.558635413629032s"
+        begin="1.3944167657027353s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -790,7 +779,7 @@
     <polygon points="320.0,325.0 360.0,337.5 320.0,350.0 280.0,337.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.93860788828212s"
+        begin="1.5484455774622092s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -801,7 +790,7 @@
     <polygon points="400.0,325.0 440.0,337.5 400.0,350.0 360.0,337.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9160612999055588s"
+        begin="1.3881179160331687s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -812,7 +801,7 @@
     <polygon points="480.0,325.0 520.0,337.5 480.0,350.0 440.0,337.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.0943090859635936s"
+        begin="1.5692810902968153s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -823,7 +812,7 @@
     <polygon points="560.0,325.0 600.0,337.5 560.0,350.0 520.0,337.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8764379203740502s"
+        begin="2.203688211863283s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -834,7 +823,7 @@
     <polygon points="640.0,325.0 680.0,337.5 640.0,350.0 600.0,337.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5642403040259563s"
+        begin="2.6577624558335025s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -845,7 +834,7 @@
     <polygon points="720.0,325.0 760.0,337.5 720.0,350.0 680.0,337.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.997038819640438s"
+        begin="0.6121758451661717s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -856,7 +845,7 @@
     <polygon points="800.0,325.0 840.0,337.5 800.0,350.0 760.0,337.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.7060706333826996s"
+        begin="1.486300055015648s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -867,7 +856,7 @@
     <polygon points="360.0,337.5 400.0,350.0 360.0,362.5 320.0,350.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.618442351808373s"
+        begin="1.371175437606822s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -878,7 +867,7 @@
     <polygon points="440.0,337.5 480.0,350.0 440.0,362.5 400.0,350.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2489477051994209s"
+        begin="0.9067839329434058s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -889,7 +878,7 @@
     <polygon points="520.0,337.5 560.0,350.0 520.0,362.5 480.0,350.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9870581552631705s"
+        begin="2.0342821627300998s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -900,7 +889,7 @@
     <polygon points="600.0,337.5 640.0,350.0 600.0,362.5 560.0,350.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8387836439931463s"
+        begin="3.029574264520983s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -911,7 +900,7 @@
     <polygon points="680.0,337.5 720.0,350.0 680.0,362.5 640.0,350.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.266490762815062s"
+        begin="3.861501852565824s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -922,7 +911,7 @@
     <polygon points="760.0,337.5 800.0,350.0 760.0,362.5 720.0,350.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.1661004691980081s"
+        begin="0.5973542375479803s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -933,7 +922,7 @@
     <polygon points="840.0,337.5 880.0,350.0 840.0,362.5 800.0,350.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.013484823224398s"
+        begin="0.6001186796947402s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -944,7 +933,7 @@
     <polygon points="400.0,350.0 440.0,362.5 400.0,375.0 360.0,362.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.0206550529277187s"
+        begin="2.709117497531681s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -955,7 +944,7 @@
     <polygon points="480.0,350.0 520.0,362.5 480.0,375.0 440.0,362.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.48143571683526s"
+        begin="1.8207932367350383s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -966,7 +955,7 @@
     <polygon points="560.0,350.0 600.0,362.5 560.0,375.0 520.0,362.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.4965190892145888s"
+        begin="1.6102730598303128s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -977,7 +966,7 @@
     <polygon points="640.0,350.0 680.0,362.5 640.0,375.0 600.0,362.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7196822408888495s"
+        begin="1.4968838283933015s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -988,7 +977,7 @@
     <polygon points="720.0,350.0 760.0,362.5 720.0,375.0 680.0,362.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2744672957116963s"
+        begin="0.8570367159102762s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -999,7 +988,7 @@
     <polygon points="800.0,350.0 840.0,362.5 800.0,375.0 760.0,362.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9246805765463344s"
+        begin="2.3844768996141052s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1010,7 +999,7 @@
     <polygon points="880.0,350.0 920.0,362.5 880.0,375.0 840.0,362.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.683839271360546s"
+        begin="3.1193686850741185s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1021,7 +1010,7 @@
     <polygon points="440.0,362.5 480.0,375.0 440.0,387.5 400.0,375.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.547947686132489s"
+        begin="2.271866203975139s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1032,7 +1021,7 @@
     <polygon points="520.0,362.5 560.0,375.0 520.0,387.5 480.0,375.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8081545142608145s"
+        begin="0.5374888574863051s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1043,7 +1032,7 @@
     <polygon points="600.0,362.5 640.0,375.0 600.0,387.5 560.0,375.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2535455782326725s"
+        begin="3.448635715971339s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1054,7 +1043,7 @@
     <polygon points="680.0,362.5 720.0,375.0 680.0,387.5 640.0,375.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2423747570718189s"
+        begin="0.9166804291216187s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1065,7 +1054,7 @@
     <polygon points="760.0,362.5 800.0,375.0 760.0,387.5 720.0,375.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.5009560564725755s"
+        begin="1.4101478939058198s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1076,7 +1065,7 @@
     <polygon points="840.0,362.5 880.0,375.0 840.0,387.5 800.0,375.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5006646208300166s"
+        begin="1.3443723712502904s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1087,7 +1076,7 @@
     <polygon points="920.0,362.5 960.0,375.0 920.0,387.5 880.0,375.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.433164379234989s"
+        begin="1.9116695319418602s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1098,7 +1087,7 @@
     <polygon points="480.0,375.0 520.0,387.5 480.0,400.0 440.0,387.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4441620397394923s"
+        begin="2.013419236364677s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1109,7 +1098,7 @@
     <polygon points="560.0,375.0 600.0,387.5 560.0,400.0 520.0,387.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.6978925980169155s"
+        begin="3.179404945632371s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1120,7 +1109,7 @@
     <polygon points="640.0,375.0 680.0,387.5 640.0,400.0 600.0,387.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.5818014402763083s"
+        begin="1.0966794305625194s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1131,7 +1120,7 @@
     <polygon points="720.0,375.0 760.0,387.5 720.0,400.0 680.0,387.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.1419546501984144s"
+        begin="2.2835402430867933s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1142,7 +1131,7 @@
     <polygon points="800.0,375.0 840.0,387.5 800.0,400.0 760.0,387.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9058229853137306s"
+        begin="1.8744914898197882s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1153,7 +1142,7 @@
     <polygon points="880.0,375.0 920.0,387.5 880.0,400.0 840.0,387.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.7679944339303664s"
+        begin="2.3853808664060896s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1164,7 +1153,7 @@
     <polygon points="960.0,375.0 1000.0,387.5 960.0,400.0 920.0,387.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.890757147105378s"
+        begin="1.1227732464249278s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1175,7 +1164,7 @@
     <polygon points="520.0,387.5 560.0,400.0 520.0,412.5 480.0,400.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.6747414826389344s"
+        begin="3.859028532405227s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1186,7 +1175,7 @@
     <polygon points="600.0,387.5 640.0,400.0 600.0,412.5 560.0,400.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.1114282555456905s"
+        begin="1.5074281680889459s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1197,7 +1186,7 @@
     <polygon points="680.0,387.5 720.0,400.0 680.0,412.5 640.0,400.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9652459657484094s"
+        begin="2.977018907756263s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1208,7 +1197,7 @@
     <polygon points="760.0,387.5 800.0,400.0 760.0,412.5 720.0,400.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6115506067001361s"
+        begin="3.235321369029493s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1219,7 +1208,7 @@
     <polygon points="840.0,387.5 880.0,400.0 840.0,412.5 800.0,400.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.8252395097275973s"
+        begin="1.5921671065040788s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1230,7 +1219,7 @@
     <polygon points="920.0,387.5 960.0,400.0 920.0,412.5 880.0,400.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6434677601571895s"
+        begin="2.252906564318412s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1241,7 +1230,7 @@
     <polygon points="1000.0,387.5 1040.0,400.0 1000.0,412.5 960.0,400.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.361418831109062s"
+        begin="3.82924685775701s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1252,7 +1241,7 @@
     <polygon points="560.0,400.0 600.0,412.5 560.0,425.0 520.0,412.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.0832910503373738s"
+        begin="3.6707161698926742s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1263,7 +1252,7 @@
     <polygon points="640.0,400.0 680.0,412.5 640.0,425.0 600.0,412.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9057314019469658s"
+        begin="1.9996836383147483s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1274,7 +1263,7 @@
     <polygon points="720.0,400.0 760.0,412.5 720.0,425.0 680.0,412.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.128525310153099s"
+        begin="2.123612338736285s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1285,7 +1274,7 @@
     <polygon points="800.0,400.0 840.0,412.5 800.0,425.0 760.0,412.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.4408033005361567s"
+        begin="3.806741620116868s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1296,7 +1285,7 @@
     <polygon points="880.0,400.0 920.0,412.5 880.0,425.0 840.0,412.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9605482193028294s"
+        begin="2.7846438810649548s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1307,7 +1296,7 @@
     <polygon points="960.0,400.0 1000.0,412.5 960.0,425.0 920.0,412.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.3304060453735165s"
+        begin="1.0111838675778682s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1318,7 +1307,7 @@
     <polygon points="1040.0,400.0 1080.0,412.5 1040.0,425.0 1000.0,412.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.100831047946463s"
+        begin="3.199391003994434s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1329,7 +1318,7 @@
     <polygon points="600.0,412.5 640.0,425.0 600.0,437.5 560.0,425.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6104596774400566s"
+        begin="1.8350078193432509s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1340,7 +1329,7 @@
     <polygon points="680.0,412.5 720.0,425.0 680.0,437.5 640.0,425.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5422166256634967s"
+        begin="2.960642137169674s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1351,7 +1340,7 @@
     <polygon points="760.0,412.5 800.0,425.0 760.0,437.5 720.0,425.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.959215882716044s"
+        begin="3.2569285491046736s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1362,7 +1351,7 @@
     <polygon points="840.0,412.5 880.0,425.0 840.0,437.5 800.0,425.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.6668128603757633s"
+        begin="1.4838957003497564s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1373,7 +1362,7 @@
     <polygon points="920.0,412.5 960.0,425.0 920.0,437.5 880.0,425.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.7586817795144634s"
+        begin="1.7476027504281215s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1384,7 +1373,7 @@
     <polygon points="1000.0,412.5 1040.0,425.0 1000.0,437.5 960.0,425.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.138907459350716s"
+        begin="2.927597149401639s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1395,7 +1384,7 @@
     <polygon points="1080.0,412.5 1120.0,425.0 1080.0,437.5 1040.0,425.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.081289463925761s"
+        begin="1.2842489353002713s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1406,7 +1395,7 @@
     <polygon points="640.0,425.0 680.0,437.5 640.0,450.0 600.0,437.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.479588605678747s"
+        begin="1.8961066919468577s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1417,7 +1406,7 @@
     <polygon points="720.0,425.0 760.0,437.5 720.0,450.0 680.0,437.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.2985750881368467s"
+        begin="2.5746894178335546s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1428,7 +1417,7 @@
     <polygon points="800.0,425.0 840.0,437.5 800.0,450.0 760.0,437.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9508419956217096s"
+        begin="2.324981879929248s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1439,7 +1428,7 @@
     <polygon points="880.0,425.0 920.0,437.5 880.0,450.0 840.0,437.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5596978295899733s"
+        begin="0.8340801770581304s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1450,7 +1439,7 @@
     <polygon points="960.0,425.0 1000.0,437.5 960.0,450.0 920.0,437.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.3826461892917012s"
+        begin="3.4623067323199406s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1461,7 +1450,7 @@
     <polygon points="1040.0,425.0 1080.0,437.5 1040.0,450.0 1000.0,437.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.3765561354884808s"
+        begin="1.4739878009594856s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1472,7 +1461,7 @@
     <polygon points="1120.0,425.0 1160.0,437.5 1120.0,450.0 1080.0,437.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.2225685076158928s"
+        begin="3.851888055716457s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1483,7 +1472,7 @@
     <polygon points="680.0,437.5 720.0,450.0 680.0,462.5 640.0,450.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.8380065570092183s"
+        begin="1.3911877662275147s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1494,7 +1483,7 @@
     <polygon points="760.0,437.5 800.0,450.0 760.0,462.5 720.0,450.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5174676618461355s"
+        begin="1.9883722024801853s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1505,7 +1494,7 @@
     <polygon points="840.0,437.5 880.0,450.0 840.0,462.5 800.0,450.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7080433872436067s"
+        begin="0.8975538216283627s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1516,7 +1505,7 @@
     <polygon points="920.0,437.5 960.0,450.0 920.0,462.5 880.0,450.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5341642695512627s"
+        begin="3.4933101941296294s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1527,7 +1516,7 @@
     <polygon points="1000.0,437.5 1040.0,450.0 1000.0,462.5 960.0,450.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5982607772664089s"
+        begin="2.9446026208237748s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1538,7 +1527,7 @@
     <polygon points="1080.0,437.5 1120.0,450.0 1080.0,462.5 1040.0,450.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.968661654338317s"
+        begin="1.5388009535149596s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1549,7 +1538,7 @@
     <polygon points="1160.0,437.5 1200.0,450.0 1160.0,462.5 1120.0,450.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.999879785408993s"
+        begin="0.8211233923242879s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1560,7 +1549,7 @@
     <polygon points="720.0,450.0 760.0,462.5 720.0,475.0 680.0,462.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.006282393637391s"
+        begin="1.628497981086384s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1571,7 +1560,7 @@
     <polygon points="800.0,450.0 840.0,462.5 800.0,475.0 760.0,462.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.7334312396319316s"
+        begin="1.9899490548646677s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1582,7 +1571,7 @@
     <polygon points="880.0,450.0 920.0,462.5 880.0,475.0 840.0,462.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.691954668281446s"
+        begin="3.8545434806065613s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1593,7 +1582,7 @@
     <polygon points="960.0,450.0 1000.0,462.5 960.0,475.0 920.0,462.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.5935507545490957s"
+        begin="3.075518371646402s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1604,7 +1593,7 @@
     <polygon points="1040.0,450.0 1080.0,462.5 1040.0,475.0 1000.0,462.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.283596873507176s"
+        begin="0.8934946269042294s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1615,7 +1604,7 @@
     <polygon points="1120.0,450.0 1160.0,462.5 1120.0,475.0 1080.0,462.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.251798801236741s"
+        begin="2.5899290170465195s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1626,7 +1615,7 @@
     <polygon points="1200.0,450.0 1240.0,462.5 1200.0,475.0 1160.0,462.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.8881983215386748s"
+        begin="3.6750686739740854s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1637,7 +1626,7 @@
     <polygon points="760.0,462.5 800.0,475.0 760.0,487.5 720.0,475.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9964676937919845s"
+        begin="2.3001663477912295s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1648,7 +1637,7 @@
     <polygon points="840.0,462.5 880.0,475.0 840.0,487.5 800.0,475.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9375706717634268s"
+        begin="1.0187620009896676s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1659,7 +1648,7 @@
     <polygon points="920.0,462.5 960.0,475.0 920.0,487.5 880.0,475.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.3803479003012185s"
+        begin="1.9662509331822315s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1670,7 +1659,7 @@
     <polygon points="1000.0,462.5 1040.0,475.0 1000.0,487.5 960.0,475.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2296849171759963s"
+        begin="1.8155888488377587s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1681,7 +1670,7 @@
     <polygon points="1080.0,462.5 1120.0,475.0 1080.0,487.5 1040.0,475.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9152619474276387s"
+        begin="1.0385905035608687s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1692,7 +1681,7 @@
     <polygon points="1160.0,462.5 1200.0,475.0 1160.0,487.5 1120.0,475.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2907644000161715s"
+        begin="3.312960553027575s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1703,7 +1692,7 @@
     <polygon points="1240.0,462.5 1280.0,475.0 1240.0,487.5 1200.0,475.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.7188096154532397s"
+        begin="2.1523715849041745s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1714,7 +1703,7 @@
     <polygon points="800.0,475.0 840.0,487.5 800.0,500.0 760.0,487.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8470976103560818s"
+        begin="3.0507109425208565s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1725,7 +1714,7 @@
     <polygon points="880.0,475.0 920.0,487.5 880.0,500.0 840.0,487.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.600699004236523s"
+        begin="2.6612274364122177s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1736,7 +1725,7 @@
     <polygon points="960.0,475.0 1000.0,487.5 960.0,500.0 920.0,487.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.049384928875171s"
+        begin="3.9928627619440107s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1747,7 +1736,7 @@
     <polygon points="1040.0,475.0 1080.0,487.5 1040.0,500.0 1000.0,487.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.5806681000583565s"
+        begin="0.7558980684167182s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1758,7 +1747,7 @@
     <polygon points="1120.0,475.0 1160.0,487.5 1120.0,500.0 1080.0,487.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.8095330406119228s"
+        begin="1.2654734829738459s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1769,7 +1758,7 @@
     <polygon points="1200.0,475.0 1240.0,487.5 1200.0,500.0 1160.0,487.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7823221084564289s"
+        begin="2.6857020319610916s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1780,7 +1769,7 @@
     <polygon points="1280.0,475.0 1320.0,487.5 1280.0,500.0 1240.0,487.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.4674762945998836s"
+        begin="1.0130134745414288s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1791,7 +1780,7 @@
     <polygon points="840.0,487.5 880.0,500.0 840.0,512.5 800.0,500.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9402599630851044s"
+        begin="2.700889451990464s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1802,7 +1791,7 @@
     <polygon points="920.0,487.5 960.0,500.0 920.0,512.5 880.0,500.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9548985983370937s"
+        begin="1.4463466559523237s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1813,7 +1802,7 @@
     <polygon points="1000.0,487.5 1040.0,500.0 1000.0,512.5 960.0,500.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.435077302977935s"
+        begin="1.7979409764375067s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1824,7 +1813,7 @@
     <polygon points="1080.0,487.5 1120.0,500.0 1080.0,512.5 1040.0,500.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.8257635302542035s"
+        begin="0.6280687157247943s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1835,7 +1824,7 @@
     <polygon points="1160.0,487.5 1200.0,500.0 1160.0,512.5 1120.0,500.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5100870740800896s"
+        begin="1.057149558349867s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1846,7 +1835,7 @@
     <polygon points="1240.0,487.5 1280.0,500.0 1240.0,512.5 1200.0,500.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.8460412143666574s"
+        begin="2.071777181667489s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1857,7 +1846,7 @@
     <polygon points="1320.0,487.5 1360.0,500.0 1320.0,512.5 1280.0,500.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.0888305961720244s"
+        begin="3.1325625914881985s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1868,7 +1857,7 @@
     <polygon points="880.0,500.0 920.0,512.5 880.0,525.0 840.0,512.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.7371067201491912s"
+        begin="3.649999219180555s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1879,7 +1868,7 @@
     <polygon points="960.0,500.0 1000.0,512.5 960.0,525.0 920.0,512.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.024836920528184s"
+        begin="2.0139011727202023s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1890,7 +1879,7 @@
     <polygon points="1040.0,500.0 1080.0,512.5 1040.0,525.0 1000.0,512.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.1147497500302452s"
+        begin="1.5170596435337291s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1901,7 +1890,7 @@
     <polygon points="1120.0,500.0 1160.0,512.5 1120.0,525.0 1080.0,512.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.5005185493054096s"
+        begin="1.6795669873726125s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1912,7 +1901,7 @@
     <polygon points="1200.0,500.0 1240.0,512.5 1200.0,525.0 1160.0,512.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.566298672124419s"
+        begin="1.243648180721743s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1923,7 +1912,7 @@
     <polygon points="1280.0,500.0 1320.0,512.5 1280.0,525.0 1240.0,512.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.2716356296718048s"
+        begin="2.089422487784929s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1934,7 +1923,7 @@
     <polygon points="1360.0,500.0 1400.0,512.5 1360.0,525.0 1320.0,512.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4029201801605924s"
+        begin="3.811752801354593s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1945,7 +1934,7 @@
     <polygon points="920.0,512.5 960.0,525.0 920.0,537.5 880.0,525.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.308748339742714s"
+        begin="1.078675073834666s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1956,7 +1945,7 @@
     <polygon points="1000.0,512.5 1040.0,525.0 1000.0,537.5 960.0,525.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.7842313840412416s"
+        begin="2.292075961918415s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1967,7 +1956,7 @@
     <polygon points="1080.0,512.5 1120.0,525.0 1080.0,537.5 1040.0,525.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.765730389481049s"
+        begin="0.7556223952288287s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1978,7 +1967,7 @@
     <polygon points="1160.0,512.5 1200.0,525.0 1160.0,537.5 1120.0,525.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.092668216435633s"
+        begin="2.471234204928278s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -1989,7 +1978,7 @@
     <polygon points="1240.0,512.5 1280.0,525.0 1240.0,537.5 1200.0,525.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8052353198225448s"
+        begin="2.6705604061912243s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2000,7 +1989,7 @@
     <polygon points="1320.0,512.5 1360.0,525.0 1320.0,537.5 1280.0,525.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.7561514920101917s"
+        begin="1.9112507637663398s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2011,7 +2000,7 @@
     <polygon points="1400.0,512.5 1440.0,525.0 1400.0,537.5 1360.0,525.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.4680826228086175s"
+        begin="3.511237205967766s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2022,7 +2011,7 @@
     <polygon points="960.0,525.0 1000.0,537.5 960.0,550.0 920.0,537.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2154270612806144s"
+        begin="2.795390116121418s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2033,7 +2022,7 @@
     <polygon points="1040.0,525.0 1080.0,537.5 1040.0,550.0 1000.0,537.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.6954120084361213s"
+        begin="0.9319209301407438s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2044,7 +2033,7 @@
     <polygon points="1120.0,525.0 1160.0,537.5 1120.0,550.0 1080.0,537.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.637478131861187s"
+        begin="2.468555660203586s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2055,7 +2044,7 @@
     <polygon points="1200.0,525.0 1240.0,537.5 1200.0,550.0 1160.0,537.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.0748968878659606s"
+        begin="3.451010165252084s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2066,7 +2055,7 @@
     <polygon points="1280.0,525.0 1320.0,537.5 1280.0,550.0 1240.0,537.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.767846683327154s"
+        begin="3.734395500504603s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2077,7 +2066,7 @@
     <polygon points="1360.0,525.0 1400.0,537.5 1360.0,550.0 1320.0,537.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.262529501607132s"
+        begin="2.0500013843635343s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2088,7 +2077,7 @@
     <polygon points="1440.0,525.0 1480.0,537.5 1440.0,550.0 1400.0,537.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.177580497249963s"
+        begin="2.4080765014064345s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2099,7 +2088,7 @@
     <polygon points="1000.0,537.5 1040.0,550.0 1000.0,562.5 960.0,550.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.3977756103669163s"
+        begin="0.5500724805313624s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2110,7 +2099,7 @@
     <polygon points="1080.0,537.5 1120.0,550.0 1080.0,562.5 1040.0,550.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.9021795529797383s"
+        begin="0.776212767836663s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2121,7 +2110,7 @@
     <polygon points="1160.0,537.5 1200.0,550.0 1160.0,562.5 1120.0,550.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.458399980468429s"
+        begin="3.179461706120238s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2132,7 +2121,7 @@
     <polygon points="1240.0,537.5 1280.0,550.0 1240.0,562.5 1200.0,550.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.8115346228522293s"
+        begin="2.3567615859674516s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2143,7 +2132,7 @@
     <polygon points="1320.0,537.5 1360.0,550.0 1320.0,562.5 1280.0,550.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4827804333604453s"
+        begin="0.8306610893349128s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2154,7 +2143,7 @@
     <polygon points="1400.0,537.5 1440.0,550.0 1400.0,562.5 1360.0,550.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4896993003786365s"
+        begin="1.6025330822143256s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2165,7 +2154,7 @@
     <polygon points="1480.0,537.5 1520.0,550.0 1480.0,562.5 1440.0,550.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.279173575679091s"
+        begin="3.00264155788195s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2176,7 +2165,7 @@
     <polygon points="1040.0,550.0 1080.0,562.5 1040.0,575.0 1000.0,562.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.950326938363353s"
+        begin="2.014668986588453s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2187,7 +2176,7 @@
     <polygon points="1120.0,550.0 1160.0,562.5 1120.0,575.0 1080.0,562.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.1819237559946014s"
+        begin="1.3279532354851713s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2198,7 +2187,7 @@
     <polygon points="1200.0,550.0 1240.0,562.5 1200.0,575.0 1160.0,562.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.038951707192171s"
+        begin="2.6318569489781063s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2209,7 +2198,7 @@
     <polygon points="1280.0,550.0 1320.0,562.5 1280.0,575.0 1240.0,562.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.954788338965992s"
+        begin="3.4439569156269134s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2220,7 +2209,7 @@
     <polygon points="1360.0,550.0 1400.0,562.5 1360.0,575.0 1320.0,562.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.8161765018981346s"
+        begin="1.5976511711849208s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2231,7 +2220,7 @@
     <polygon points="1440.0,550.0 1480.0,562.5 1440.0,575.0 1400.0,562.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.4241509205163405s"
+        begin="2.2712826239960044s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2242,7 +2231,7 @@
     <polygon points="1520.0,550.0 1560.0,562.5 1520.0,575.0 1480.0,562.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.256613971062739s"
+        begin="1.6841907919097059s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2253,7 +2242,7 @@
     <polygon points="1080.0,562.5 1120.0,575.0 1080.0,587.5 1040.0,575.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.3024801904748486s"
+        begin="1.5483349119768222s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2264,7 +2253,7 @@
     <polygon points="1160.0,562.5 1200.0,575.0 1160.0,587.5 1120.0,575.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5025567800483433s"
+        begin="0.6455595167554173s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2275,7 +2264,7 @@
     <polygon points="1240.0,562.5 1280.0,575.0 1240.0,587.5 1200.0,575.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.0278137783021424s"
+        begin="2.8703708909095065s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2286,7 +2275,7 @@
     <polygon points="1320.0,562.5 1360.0,575.0 1320.0,587.5 1280.0,575.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.694386283279014s"
+        begin="3.184616430011576s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2297,7 +2286,7 @@
     <polygon points="1400.0,562.5 1440.0,575.0 1400.0,587.5 1360.0,575.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.135920713698881s"
+        begin="1.7885108890637678s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2308,7 +2297,7 @@
     <polygon points="1480.0,562.5 1520.0,575.0 1480.0,587.5 1440.0,575.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.3108860159432636s"
+        begin="1.2375910163358472s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2319,7 +2308,7 @@
     <polygon points="1560.0,562.5 1600.0,575.0 1560.0,587.5 1520.0,575.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5799128288153481s"
+        begin="3.6632844116573233s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2330,7 +2319,7 @@
     <polygon points="1120.0,575.0 1160.0,587.5 1120.0,600.0 1080.0,587.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.734372791670129s"
+        begin="2.710886487202588s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2341,7 +2330,7 @@
     <polygon points="1200.0,575.0 1240.0,587.5 1200.0,600.0 1160.0,587.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.948813955096105s"
+        begin="1.3591582946684901s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2352,7 +2341,7 @@
     <polygon points="1280.0,575.0 1320.0,587.5 1280.0,600.0 1240.0,587.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9231951121861992s"
+        begin="2.1710232658100943s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2363,7 +2352,7 @@
     <polygon points="1360.0,575.0 1400.0,587.5 1360.0,600.0 1320.0,587.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.916446414800976s"
+        begin="2.322900432190223s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2374,7 +2363,7 @@
     <polygon points="1440.0,575.0 1480.0,587.5 1440.0,600.0 1400.0,587.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.87876414604912s"
+        begin="3.658420542919442s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2385,7 +2374,7 @@
     <polygon points="1520.0,575.0 1560.0,587.5 1520.0,600.0 1480.0,587.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.258759048338161s"
+        begin="3.3668812464762903s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2396,7 +2385,7 @@
     <polygon points="1600.0,575.0 1640.0,587.5 1600.0,600.0 1560.0,587.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.954421419617112s"
+        begin="3.882673281494476s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2407,7 +2396,7 @@
     <polygon points="1160.0,587.5 1200.0,600.0 1160.0,612.5 1120.0,600.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.72781115600599s"
+        begin="3.7627815295468596s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2418,7 +2407,7 @@
     <polygon points="1240.0,587.5 1280.0,600.0 1240.0,612.5 1200.0,600.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.811523219394662s"
+        begin="2.342604598319083s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2429,7 +2418,7 @@
     <polygon points="1320.0,587.5 1360.0,600.0 1320.0,612.5 1280.0,600.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.3065496495113775s"
+        begin="3.0681119435359308s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2440,7 +2429,7 @@
     <polygon points="1400.0,587.5 1440.0,600.0 1400.0,612.5 1360.0,600.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.481617432212513s"
+        begin="1.1506858173842809s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2451,7 +2440,7 @@
     <polygon points="1480.0,587.5 1520.0,600.0 1480.0,612.5 1440.0,600.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7201883270732863s"
+        begin="3.647886820483695s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2462,7 +2451,7 @@
     <polygon points="1560.0,587.5 1600.0,600.0 1560.0,612.5 1520.0,600.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.083044447962565s"
+        begin="2.7391990368868617s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2473,7 +2462,7 @@
     <polygon points="1640.0,587.5 1680.0,600.0 1640.0,612.5 1600.0,600.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8050018612147634s"
+        begin="1.2345784944685434s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2484,7 +2473,7 @@
     <polygon points="1200.0,600.0 1240.0,612.5 1200.0,625.0 1160.0,612.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.730664387984895s"
+        begin="3.3147378864224626s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2495,7 +2484,7 @@
     <polygon points="1280.0,600.0 1320.0,612.5 1280.0,625.0 1240.0,612.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.743293667811603s"
+        begin="0.7762350121094774s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2506,7 +2495,7 @@
     <polygon points="1360.0,600.0 1400.0,612.5 1360.0,625.0 1320.0,612.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.35120382957912s"
+        begin="0.5739001652473857s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2517,7 +2506,7 @@
     <polygon points="1440.0,600.0 1480.0,612.5 1440.0,625.0 1400.0,612.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.8465464296595955s"
+        begin="2.1834878868182863s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2528,7 +2517,7 @@
     <polygon points="1520.0,600.0 1560.0,612.5 1520.0,625.0 1480.0,612.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.5425704494438293s"
+        begin="0.7338172820404826s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2539,7 +2528,7 @@
     <polygon points="1600.0,600.0 1640.0,612.5 1600.0,625.0 1560.0,612.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.0087443181316997s"
+        begin="3.73740158617259s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2550,7 +2539,7 @@
     <polygon points="1680.0,600.0 1720.0,612.5 1680.0,625.0 1640.0,612.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2359040093277764s"
+        begin="1.8503624409336918s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2561,7 +2550,7 @@
     <polygon points="1240.0,612.5 1280.0,625.0 1240.0,637.5 1200.0,625.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.1397750207298802s"
+        begin="3.3545368666438513s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2572,7 +2561,7 @@
     <polygon points="1320.0,612.5 1360.0,625.0 1320.0,637.5 1280.0,625.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9770696315634657s"
+        begin="2.9261515793237605s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2583,7 +2572,7 @@
     <polygon points="1400.0,612.5 1440.0,625.0 1400.0,637.5 1360.0,625.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.2703933925888116s"
+        begin="2.316925720640997s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2594,7 +2583,7 @@
     <polygon points="1480.0,612.5 1520.0,625.0 1480.0,637.5 1440.0,625.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.945170321006198s"
+        begin="3.882176359317208s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2605,7 +2594,7 @@
     <polygon points="1560.0,612.5 1600.0,625.0 1560.0,637.5 1520.0,625.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6510630652679553s"
+        begin="3.97437088925061s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2616,7 +2605,7 @@
     <polygon points="1640.0,612.5 1680.0,625.0 1640.0,637.5 1600.0,625.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.5897014084067282s"
+        begin="2.317160896864648s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2627,7 +2616,7 @@
     <polygon points="1720.0,612.5 1760.0,625.0 1720.0,637.5 1680.0,625.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.7799307489836758s"
+        begin="0.6466952654890813s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2638,7 +2627,7 @@
     <polygon points="1280.0,625.0 1320.0,637.5 1280.0,650.0 1240.0,637.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.8045669922736645s"
+        begin="2.8809793849098386s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2649,7 +2638,7 @@
     <polygon points="1360.0,625.0 1400.0,637.5 1360.0,650.0 1320.0,637.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.8249521366896868s"
+        begin="0.6796852136154014s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2660,7 +2649,7 @@
     <polygon points="1440.0,625.0 1480.0,637.5 1440.0,650.0 1400.0,637.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.490001693391922s"
+        begin="2.0221625916662633s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2671,7 +2660,7 @@
     <polygon points="1520.0,625.0 1560.0,637.5 1520.0,650.0 1480.0,637.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.0172756915784005s"
+        begin="3.743117267935519s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2682,7 +2671,7 @@
     <polygon points="1600.0,625.0 1640.0,637.5 1600.0,650.0 1560.0,637.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.7197256284947837s"
+        begin="1.4840269328993614s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2693,7 +2682,7 @@
     <polygon points="1680.0,625.0 1720.0,637.5 1680.0,650.0 1640.0,637.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9676897250013226s"
+        begin="3.5445587745434652s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2704,7 +2693,7 @@
     <polygon points="1760.0,625.0 1800.0,637.5 1760.0,650.0 1720.0,637.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.7440170636423105s"
+        begin="0.8082332569927869s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2715,7 +2704,7 @@
     <polygon points="1320.0,637.5 1360.0,650.0 1320.0,662.5 1280.0,650.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.1800522805906333s"
+        begin="3.035706168239952s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2726,7 +2715,7 @@
     <polygon points="1400.0,637.5 1440.0,650.0 1400.0,662.5 1360.0,650.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.9482116783589953s"
+        begin="1.2074676319261834s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2737,7 +2726,7 @@
     <polygon points="1480.0,637.5 1520.0,650.0 1480.0,662.5 1440.0,650.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.1286984168151422s"
+        begin="0.5834446461053829s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2748,7 +2737,7 @@
     <polygon points="1560.0,637.5 1600.0,650.0 1560.0,662.5 1520.0,650.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.784527416751863s"
+        begin="0.9418367505264481s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2759,7 +2748,7 @@
     <polygon points="1640.0,637.5 1680.0,650.0 1640.0,662.5 1600.0,650.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.5790081634586643s"
+        begin="1.1063206359976627s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2770,7 +2759,7 @@
     <polygon points="1720.0,637.5 1760.0,650.0 1720.0,662.5 1680.0,650.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.038004079509429s"
+        begin="3.6425460215585486s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2781,7 +2770,7 @@
     <polygon points="1800.0,637.5 1840.0,650.0 1800.0,662.5 1760.0,650.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.887338787644109s"
+        begin="2.1876511510108627s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2792,7 +2781,7 @@
     <polygon points="1360.0,650.0 1400.0,662.5 1360.0,675.0 1320.0,662.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.070456487520019s"
+        begin="3.0210132039289084s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2803,7 +2792,7 @@
     <polygon points="1440.0,650.0 1480.0,662.5 1440.0,675.0 1400.0,662.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9654490657654702s"
+        begin="3.017488978454236s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2814,7 +2803,7 @@
     <polygon points="1520.0,650.0 1560.0,662.5 1520.0,675.0 1480.0,662.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5552441370393181s"
+        begin="0.6968753568097931s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2825,7 +2814,7 @@
     <polygon points="1600.0,650.0 1640.0,662.5 1600.0,675.0 1560.0,662.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.83382655934874s"
+        begin="3.1519250437076347s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2836,7 +2825,7 @@
     <polygon points="1680.0,650.0 1720.0,662.5 1680.0,675.0 1640.0,662.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.0398140970242624s"
+        begin="2.398305827038465s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2847,7 +2836,7 @@
     <polygon points="1760.0,650.0 1800.0,662.5 1760.0,675.0 1720.0,662.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9377774411263363s"
+        begin="2.2342712566775944s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2858,7 +2847,7 @@
     <polygon points="1840.0,650.0 1880.0,662.5 1840.0,675.0 1800.0,662.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.0158158511331692s"
+        begin="2.5609264194828665s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2869,7 +2858,7 @@
     <polygon points="1400.0,662.5 1440.0,675.0 1400.0,687.5 1360.0,675.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.6740824101980283s"
+        begin="1.1592773745125813s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2880,7 +2869,7 @@
     <polygon points="1480.0,662.5 1520.0,675.0 1480.0,687.5 1440.0,675.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.40494012027466s"
+        begin="2.9069856176480062s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2891,7 +2880,7 @@
     <polygon points="1560.0,662.5 1600.0,675.0 1560.0,687.5 1520.0,675.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.577950299023126s"
+        begin="3.5550446274657244s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2902,7 +2891,7 @@
     <polygon points="1640.0,662.5 1680.0,675.0 1640.0,687.5 1600.0,675.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4188617238048509s"
+        begin="0.8496005685162997s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2913,7 +2902,7 @@
     <polygon points="1720.0,662.5 1760.0,675.0 1720.0,687.5 1680.0,675.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.751048717439734s"
+        begin="0.6743880824825255s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2924,7 +2913,7 @@
     <polygon points="1800.0,662.5 1840.0,675.0 1800.0,687.5 1760.0,675.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.059580864962901s"
+        begin="1.470975294793334s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2935,7 +2924,7 @@
     <polygon points="1880.0,662.5 1920.0,675.0 1880.0,687.5 1840.0,675.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.7536450845402094s"
+        begin="0.9400598973594343s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2946,7 +2935,7 @@
     <polygon points="1440.0,675.0 1480.0,687.5 1440.0,700.0 1400.0,687.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.1404281380064871s"
+        begin="0.7013590864264093s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2957,7 +2946,7 @@
     <polygon points="1520.0,675.0 1560.0,687.5 1520.0,700.0 1480.0,687.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.1618037434347666s"
+        begin="1.8241759622843883s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2968,7 +2957,7 @@
     <polygon points="1600.0,675.0 1640.0,687.5 1600.0,700.0 1560.0,687.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.794400190407687s"
+        begin="1.8095414851797749s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2979,7 +2968,7 @@
     <polygon points="1680.0,675.0 1720.0,687.5 1680.0,700.0 1640.0,687.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.2431336522791243s"
+        begin="1.9032753379682343s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -2990,7 +2979,7 @@
     <polygon points="1760.0,675.0 1800.0,687.5 1760.0,700.0 1720.0,687.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.9975040230417505s"
+        begin="1.4783324283283061s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3001,7 +2990,7 @@
     <polygon points="1840.0,675.0 1880.0,687.5 1840.0,700.0 1800.0,687.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.7986122023592337s"
+        begin="2.218257101141443s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3012,7 +3001,7 @@
     <polygon points="1920.0,675.0 1960.0,687.5 1920.0,700.0 1880.0,687.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.9548181478610264s"
+        begin="2.8848992023333246s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3023,7 +3012,7 @@
     <polygon points="1480.0,687.5 1520.0,700.0 1480.0,712.5 1440.0,700.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.1379893996472563s"
+        begin="0.8632754984271651s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3034,7 +3023,7 @@
     <polygon points="1560.0,687.5 1600.0,700.0 1560.0,712.5 1520.0,700.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.7002262121745146s"
+        begin="2.0158669929223487s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3045,7 +3034,7 @@
     <polygon points="1640.0,687.5 1680.0,700.0 1640.0,712.5 1600.0,700.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4675297582444704s"
+        begin="0.6274522198048946s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3056,7 +3045,7 @@
     <polygon points="1720.0,687.5 1760.0,700.0 1720.0,712.5 1680.0,700.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.1605568996333266s"
+        begin="2.1519996438736895s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3067,7 +3056,7 @@
     <polygon points="1800.0,687.5 1840.0,700.0 1800.0,712.5 1760.0,700.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5061802634214113s"
+        begin="2.8104788033015624s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3078,7 +3067,7 @@
     <polygon points="1880.0,687.5 1920.0,700.0 1880.0,712.5 1840.0,700.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9732036367470647s"
+        begin="2.037769102070948s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3089,7 +3078,7 @@
     <polygon points="1960.0,687.5 2000.0,700.0 1960.0,712.5 1920.0,700.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5995080458739066s"
+        begin="2.9525029033682673s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3100,7 +3089,7 @@
     <polygon points="1520.0,700.0 1560.0,712.5 1520.0,725.0 1480.0,712.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.8678590832300728s"
+        begin="1.8275886434315256s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3111,7 +3100,7 @@
     <polygon points="1600.0,700.0 1640.0,712.5 1600.0,725.0 1560.0,712.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7164884525076296s"
+        begin="2.3561274018453653s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3122,7 +3111,7 @@
     <polygon points="1680.0,700.0 1720.0,712.5 1680.0,725.0 1640.0,712.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.6051530013423037s"
+        begin="1.4675194846491562s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3133,7 +3122,7 @@
     <polygon points="1760.0,700.0 1800.0,712.5 1760.0,725.0 1720.0,712.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7065249198226288s"
+        begin="2.610090166152199s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3144,7 +3133,7 @@
     <polygon points="1840.0,700.0 1880.0,712.5 1840.0,725.0 1800.0,712.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.8142919985743577s"
+        begin="2.7487929049822806s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3155,7 +3144,7 @@
     <polygon points="1920.0,700.0 1960.0,712.5 1920.0,725.0 1880.0,712.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2721206179898046s"
+        begin="0.9448838137508302s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3166,7 +3155,7 @@
     <polygon points="2000.0,700.0 2040.0,712.5 2000.0,725.0 1960.0,712.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.4303823044493145s"
+        begin="1.8490482747017867s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3177,7 +3166,7 @@
     <polygon points="1560.0,712.5 1600.0,725.0 1560.0,737.5 1520.0,725.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6912985580841535s"
+        begin="3.7960841596175894s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3188,7 +3177,7 @@
     <polygon points="1640.0,712.5 1680.0,725.0 1640.0,737.5 1600.0,725.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.446349163810707s"
+        begin="1.272779564988911s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3199,7 +3188,7 @@
     <polygon points="1720.0,712.5 1760.0,725.0 1720.0,737.5 1680.0,725.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8496336553965278s"
+        begin="3.1966200677539702s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3210,7 +3199,7 @@
     <polygon points="1800.0,712.5 1840.0,725.0 1800.0,737.5 1760.0,725.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.237306823731748s"
+        begin="3.799445530972129s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3221,7 +3210,7 @@
     <polygon points="1880.0,712.5 1920.0,725.0 1880.0,737.5 1840.0,725.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.5230694837704712s"
+        begin="3.4986588085708545s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3232,7 +3221,7 @@
     <polygon points="1960.0,712.5 2000.0,725.0 1960.0,737.5 1920.0,725.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.5347699726806745s"
+        begin="3.41203552320668s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3243,7 +3232,7 @@
     <polygon points="2040.0,712.5 2080.0,725.0 2040.0,737.5 2000.0,725.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.245600860517306s"
+        begin="1.1008941527565979s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3254,7 +3243,7 @@
     <polygon points="1600.0,725.0 1640.0,737.5 1600.0,750.0 1560.0,737.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.7641795877283548s"
+        begin="1.5318338235853133s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3265,7 +3254,7 @@
     <polygon points="1680.0,725.0 1720.0,737.5 1680.0,750.0 1640.0,737.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.3536631382977307s"
+        begin="0.7009068139799396s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3276,7 +3265,7 @@
     <polygon points="1760.0,725.0 1800.0,737.5 1760.0,750.0 1720.0,737.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.2410870588281626s"
+        begin="2.864406131338759s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3287,7 +3276,7 @@
     <polygon points="1840.0,725.0 1880.0,737.5 1840.0,750.0 1800.0,737.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.3046623516339282s"
+        begin="1.6376140476643894s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3298,7 +3287,7 @@
     <polygon points="1920.0,725.0 1960.0,737.5 1920.0,750.0 1880.0,737.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.666745272889837s"
+        begin="1.132340832296601s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3309,7 +3298,7 @@
     <polygon points="2000.0,725.0 2040.0,737.5 2000.0,750.0 1960.0,737.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2227282224244251s"
+        begin="0.9713235258451006s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3320,7 +3309,7 @@
     <polygon points="2080.0,725.0 2120.0,737.5 2080.0,750.0 2040.0,737.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.667135040096764s"
+        begin="3.8717523130076428s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3331,7 +3320,7 @@
     <polygon points="1640.0,737.5 1680.0,750.0 1640.0,762.5 1600.0,750.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.1569248829132657s"
+        begin="1.5086733781095616s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3342,7 +3331,7 @@
     <polygon points="1720.0,737.5 1760.0,750.0 1720.0,762.5 1680.0,750.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.639658592264566s"
+        begin="3.192445523604308s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3353,7 +3342,7 @@
     <polygon points="1800.0,737.5 1840.0,750.0 1800.0,762.5 1760.0,750.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.1257218037909964s"
+        begin="3.368643494984815s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3364,7 +3353,7 @@
     <polygon points="1880.0,737.5 1920.0,750.0 1880.0,762.5 1840.0,750.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9375021960325856s"
+        begin="0.8927810347346254s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3375,7 +3364,7 @@
     <polygon points="1960.0,737.5 2000.0,750.0 1960.0,762.5 1920.0,750.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.315495892872307s"
+        begin="2.199804714103828s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3386,7 +3375,7 @@
     <polygon points="2040.0,737.5 2080.0,750.0 2040.0,762.5 2000.0,750.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.5858941531034585s"
+        begin="0.8381825858413355s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3397,7 +3386,7 @@
     <polygon points="2120.0,737.5 2160.0,750.0 2120.0,762.5 2080.0,750.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.644187440035413s"
+        begin="3.714537259131812s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3408,7 +3397,7 @@
     <polygon points="1680.0,750.0 1720.0,762.5 1680.0,775.0 1640.0,762.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.892479936840211s"
+        begin="2.981384094809072s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3419,7 +3408,7 @@
     <polygon points="1760.0,750.0 1800.0,762.5 1760.0,775.0 1720.0,762.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.6421398988897855s"
+        begin="1.940651387614658s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3430,7 +3419,7 @@
     <polygon points="1840.0,750.0 1880.0,762.5 1840.0,775.0 1800.0,762.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.093795638470782s"
+        begin="3.921732249862019s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3441,7 +3430,7 @@
     <polygon points="1920.0,750.0 1960.0,762.5 1920.0,775.0 1880.0,762.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.15513130810078s"
+        begin="3.612495069590935s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3452,7 +3441,7 @@
     <polygon points="2000.0,750.0 2040.0,762.5 2000.0,775.0 1960.0,762.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.7985091003630327s"
+        begin="2.7072111992991577s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3463,7 +3452,7 @@
     <polygon points="2080.0,750.0 2120.0,762.5 2080.0,775.0 2040.0,762.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.3713783232340675s"
+        begin="3.5587893905404093s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3474,7 +3463,7 @@
     <polygon points="2160.0,750.0 2200.0,762.5 2160.0,775.0 2120.0,762.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.2783162209858547s"
+        begin="3.6595869187148478s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3485,7 +3474,7 @@
     <polygon points="1720.0,762.5 1760.0,775.0 1720.0,787.5 1680.0,775.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.3717036579170756s"
+        begin="1.7406694103911646s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3496,7 +3485,7 @@
     <polygon points="1800.0,762.5 1840.0,775.0 1800.0,787.5 1760.0,775.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.921666598132397s"
+        begin="0.9712084752347544s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3507,7 +3496,7 @@
     <polygon points="1880.0,762.5 1920.0,775.0 1880.0,787.5 1840.0,775.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.1921796935625681s"
+        begin="3.413443550633401s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3518,7 +3507,7 @@
     <polygon points="1960.0,762.5 2000.0,775.0 1960.0,787.5 1920.0,775.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7747207370495042s"
+        begin="0.546742538950732s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3529,7 +3518,7 @@
     <polygon points="2040.0,762.5 2080.0,775.0 2040.0,787.5 2000.0,775.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.805321329354123s"
+        begin="2.5817871772474614s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3540,7 +3529,7 @@
     <polygon points="2120.0,762.5 2160.0,775.0 2120.0,787.5 2080.0,775.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.1485055268284152s"
+        begin="3.7334737344115934s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3551,7 +3540,7 @@
     <polygon points="2200.0,762.5 2240.0,775.0 2200.0,787.5 2160.0,775.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.3211339091817784s"
+        begin="1.1445713944594975s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3562,7 +3551,7 @@
     <polygon points="1760.0,775.0 1800.0,787.5 1760.0,800.0 1720.0,787.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.8534731298530374s"
+        begin="1.7648919434048516s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3573,7 +3562,7 @@
     <polygon points="1840.0,775.0 1880.0,787.5 1840.0,800.0 1800.0,787.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9835132586599857s"
+        begin="2.1966276425090365s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3584,7 +3573,7 @@
     <polygon points="1920.0,775.0 1960.0,787.5 1920.0,800.0 1880.0,787.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.8137664806367677s"
+        begin="3.714834843306044s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3595,7 +3584,7 @@
     <polygon points="2000.0,775.0 2040.0,787.5 2000.0,800.0 1960.0,787.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9393293394174727s"
+        begin="1.1916228252630376s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3606,7 +3595,7 @@
     <polygon points="2080.0,775.0 2120.0,787.5 2080.0,800.0 2040.0,787.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.28587086270767s"
+        begin="1.7614355482171966s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3617,7 +3606,7 @@
     <polygon points="2160.0,775.0 2200.0,787.5 2160.0,800.0 2120.0,787.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4567844391404061s"
+        begin="0.9053803775805452s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3628,7 +3617,7 @@
     <polygon points="2240.0,775.0 2280.0,787.5 2240.0,800.0 2200.0,787.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.642230421961903s"
+        begin="2.533778120766196s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3639,7 +3628,7 @@
     <polygon points="1800.0,787.5 1840.0,800.0 1800.0,812.5 1760.0,800.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.158228024380479s"
+        begin="1.9935897138086263s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3650,7 +3639,7 @@
     <polygon points="1880.0,787.5 1920.0,800.0 1880.0,812.5 1840.0,800.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.4168100842990339s"
+        begin="0.7706428411040604s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3661,7 +3650,7 @@
     <polygon points="1960.0,787.5 2000.0,800.0 1960.0,812.5 1920.0,800.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.996994880626908s"
+        begin="2.304442996947927s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3672,7 +3661,7 @@
     <polygon points="2040.0,787.5 2080.0,800.0 2040.0,812.5 2000.0,800.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.2202753859665405s"
+        begin="0.8337240653150708s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3683,7 +3672,7 @@
     <polygon points="2120.0,787.5 2160.0,800.0 2120.0,812.5 2080.0,800.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8811906398592255s"
+        begin="0.9171960138345451s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3694,7 +3683,7 @@
     <polygon points="2200.0,787.5 2240.0,800.0 2200.0,812.5 2160.0,800.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.509866902173403s"
+        begin="0.9485604788613737s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3705,7 +3694,7 @@
     <polygon points="2280.0,787.5 2320.0,800.0 2280.0,812.5 2240.0,800.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.9842692752300786s"
+        begin="1.120965929255064s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3716,7 +3705,7 @@
     <polygon points="1840.0,800.0 1880.0,812.5 1840.0,825.0 1800.0,812.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5702633780576496s"
+        begin="2.857120300780137s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3727,7 +3716,7 @@
     <polygon points="1920.0,800.0 1960.0,812.5 1920.0,825.0 1880.0,812.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.1090367967970884s"
+        begin="1.4344363448939026s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3738,7 +3727,7 @@
     <polygon points="2000.0,800.0 2040.0,812.5 2000.0,825.0 1960.0,812.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.137425159428611s"
+        begin="3.643600844096667s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3749,7 +3738,7 @@
     <polygon points="2080.0,800.0 2120.0,812.5 2080.0,825.0 2040.0,812.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.7549753193761621s"
+        begin="2.172979653685535s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3760,7 +3749,7 @@
     <polygon points="2160.0,800.0 2200.0,812.5 2160.0,825.0 2120.0,812.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.9368430905953327s"
+        begin="3.8065941345145644s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3771,7 +3760,7 @@
     <polygon points="2240.0,800.0 2280.0,812.5 2240.0,825.0 2200.0,812.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.8581801863904905s"
+        begin="2.393305602925601s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3782,7 +3771,7 @@
     <polygon points="2320.0,800.0 2360.0,812.5 2320.0,825.0 2280.0,812.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6939304533595366s"
+        begin="1.2323691927200706s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3793,7 +3782,7 @@
     <polygon points="1880.0,812.5 1920.0,825.0 1880.0,837.5 1840.0,825.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.7745175096265253s"
+        begin="2.868122071964886s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3804,7 +3793,7 @@
     <polygon points="1960.0,812.5 2000.0,825.0 1960.0,837.5 1920.0,825.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.1160708116195597s"
+        begin="2.2560678529242555s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3815,7 +3804,7 @@
     <polygon points="2040.0,812.5 2080.0,825.0 2040.0,837.5 2000.0,825.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.7284408071766373s"
+        begin="2.7460108248054613s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3826,7 +3815,7 @@
     <polygon points="2120.0,812.5 2160.0,825.0 2120.0,837.5 2080.0,825.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.847414142855494s"
+        begin="1.6121843583046305s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3837,7 +3826,7 @@
     <polygon points="2200.0,812.5 2240.0,825.0 2200.0,837.5 2160.0,825.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.719353806118359s"
+        begin="3.234549920029798s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3848,7 +3837,7 @@
     <polygon points="2280.0,812.5 2320.0,825.0 2280.0,837.5 2240.0,825.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.706883141829568s"
+        begin="2.1206775043851946s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3859,7 +3848,7 @@
     <polygon points="1920.0,825.0 1960.0,837.5 1920.0,850.0 1880.0,837.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.908718663933207s"
+        begin="3.6803683253501385s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3870,7 +3859,7 @@
     <polygon points="2000.0,825.0 2040.0,837.5 2000.0,850.0 1960.0,837.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.902916337770609s"
+        begin="2.522048138450758s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3881,7 +3870,7 @@
     <polygon points="2080.0,825.0 2120.0,837.5 2080.0,850.0 2040.0,837.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.2591013597489167s"
+        begin="3.6139479384467657s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3892,7 +3881,7 @@
     <polygon points="2160.0,825.0 2200.0,837.5 2160.0,850.0 2120.0,837.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9303255357362523s"
+        begin="2.3202089488307975s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3903,7 +3892,7 @@
     <polygon points="2240.0,825.0 2280.0,837.5 2240.0,850.0 2200.0,837.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.8422744894440616s"
+        begin="2.647305481956413s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3914,7 +3903,7 @@
     <polygon points="1960.0,837.5 2000.0,850.0 1960.0,862.5 1920.0,850.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="3.9202433121743208s"
+        begin="1.2589080514867244s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3925,7 +3914,7 @@
     <polygon points="2040.0,837.5 2080.0,850.0 2040.0,862.5 2000.0,850.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.54210830514483s"
+        begin="0.5931724734980436s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3936,7 +3925,7 @@
     <polygon points="2120.0,837.5 2160.0,850.0 2120.0,862.5 2080.0,850.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.5559304310345461s"
+        begin="1.2451910504124135s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3947,7 +3936,7 @@
     <polygon points="2200.0,837.5 2240.0,850.0 2200.0,862.5 2160.0,850.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6766821340538541s"
+        begin="3.7484003939889785s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3958,7 +3947,7 @@
     <polygon points="2000.0,850.0 2040.0,862.5 2000.0,875.0 1960.0,862.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="1.9469099436669282s"
+        begin="1.829251354299949s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3969,7 +3958,7 @@
     <polygon points="2080.0,850.0 2120.0,862.5 2080.0,875.0 2040.0,862.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.66310137693572s"
+        begin="1.872374079481763s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3980,7 +3969,7 @@
     <polygon points="2160.0,850.0 2200.0,862.5 2160.0,875.0 2120.0,862.5" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="0.6922888730561386s"
+        begin="3.35412525181588s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -3991,7 +3980,7 @@
     <polygon points="2040.0,862.5 2080.0,875.0 2040.0,887.5 2000.0,875.0" opacity="0.0" fill="none" stroke="#956effff" stroke-width="0.4">
       <animate
         attributeName="opacity"
-        begin="2.5787865709611077s"
+        begin="2.1346125803455718s"
         dur="1.5s"
         repeatCount="indefinite"
         calcMode="spline"
@@ -4003,7 +3992,7 @@
     <polygon points="200.0,187.5 240.0,200.0 240.0,200.0 200.0,187.5" fill="#471a8d" stroke="#8e34ff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.2">
       <animate
         attributeName="points"
-        begin="2.4288019378739367s"
+        begin="3.7373781529920835s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4015,7 +4004,7 @@
     <polygon points="280.0,187.5 240.0,200.0 240.0,200.0 280.0,187.5" fill="#5d22b8" stroke="#8e34ff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.5">
       <animate
         attributeName="points"
-        begin="2.4288019378739367s"
+        begin="3.7373781529920835s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4027,7 +4016,7 @@
     <polygon points="240.0,175.0 280.0,187.5 240.0,200.0 200.0,187.5" fill="#6d28d9" filter="url(#soft-glow)" stroke="#8e34ff" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.7">
       <animate
         attributeName="points"
-        begin="2.4288019378739367s"
+        begin="3.7373781529920835s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4040,7 +4029,7 @@
     <polygon points="280.0,187.5 320.0,200.0 320.0,200.0 280.0,187.5" fill="#471a8d" stroke="#8e34ff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.2">
       <animate
         attributeName="points"
-        begin="5.728824859010028s"
+        begin="4.935675168616245s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4052,7 +4041,7 @@
     <polygon points="360.0,187.5 320.0,200.0 320.0,200.0 360.0,187.5" fill="#5d22b8" stroke="#8e34ff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.5">
       <animate
         attributeName="points"
-        begin="5.728824859010028s"
+        begin="4.935675168616245s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4064,7 +4053,7 @@
     <polygon points="320.0,175.0 360.0,187.5 320.0,200.0 280.0,187.5" fill="#6d28d9" filter="url(#soft-glow)" stroke="#8e34ff" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.7">
       <animate
         attributeName="points"
-        begin="5.728824859010028s"
+        begin="4.935675168616245s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4077,7 +4066,7 @@
     <polygon points="240.0,200.0 280.0,212.5 280.0,212.5 240.0,200.0" fill="#5a1c93" stroke="#b338ff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.2">
       <animate
         attributeName="points"
-        begin="1.3548748647806932s"
+        begin="3.995764548334664s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4089,7 +4078,7 @@
     <polygon points="320.0,200.0 280.0,212.5 280.0,212.5 320.0,200.0" fill="#7525c0" stroke="#b338ff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.5">
       <animate
         attributeName="points"
-        begin="1.3548748647806932s"
+        begin="3.995764548334664s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4101,7 +4090,7 @@
     <polygon points="280.0,187.5 320.0,200.0 280.0,212.5 240.0,200.0" fill="#8a2be2" filter="url(#soft-glow)" stroke="#b338ff" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.7">
       <animate
         attributeName="points"
-        begin="1.3548748647806932s"
+        begin="3.995764548334664s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4113,7 +4102,7 @@
     <polygon points="316.0,110.9 284.0,120.9 284.0,110.9 316.0,100.9" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="7.03135366637563s"
+        begin="8.891715793816052s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4124,7 +4113,7 @@
     <polygon points="244.0,110.9 276.0,120.9 276.0,110.9 244.0,100.9" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="7.03135366637563s"
+        begin="8.891715793816052s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4135,7 +4124,7 @@
     <polygon points="316.0,130.9 284.0,140.9 284.0,130.9 316.0,120.9" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="5.7277103895175525s"
+        begin="9.179250510486431s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4146,7 +4135,7 @@
     <polygon points="244.0,130.9 276.0,140.9 276.0,130.9 244.0,120.9" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="5.7277103895175525s"
+        begin="9.179250510486431s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4157,7 +4146,7 @@
     <polygon points="316.0,150.9 284.0,160.9 284.0,150.9 316.0,140.9" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="5.262029494700999s"
+        begin="7.73310311311205s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4168,7 +4157,7 @@
     <polygon points="244.0,150.9 276.0,160.9 276.0,150.9 244.0,140.9" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="5.262029494700999s"
+        begin="7.73310311311205s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4179,7 +4168,7 @@
     <polygon points="316.0,170.9 284.0,180.9 284.0,170.9 316.0,160.9" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="5.386481856233928s"
+        begin="6.547742379108914s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4190,7 +4179,88 @@
     <polygon points="244.0,170.9 276.0,180.9 276.0,170.9 244.0,160.9" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="5.386481856233928s"
+        begin="6.547742379108914s"
+        dur="1s"
+        calcMode="spline"
+        keyTimes="0; 1"
+        keySplines="0.19 1 0.22 1"
+        values="0.0; 1.0"
+        fill="freeze" />
+    </polygon>
+    <polygon points="360.0,187.5 400.0,200.0 360.0,212.5 320.0,200.0" fill="#ba57ff" filter="url(#floor-blur)" />
+    <polygon points="320.0,200.0 360.0,212.5 360.0,212.5 320.0,200.0" fill="#51269a" stroke="#a14bff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.2">
+      <animate
+        attributeName="points"
+        begin="1.1681740996857906s"
+        dur="2.5s"
+        repeatCount="1"
+        calcMode="spline"
+        keyTimes="0; 0.6; 0.8; 1" 
+        keySplines="0.4 0 0.2 1; 0.4 0 1 1; 0 0 0.58 1"
+        values="320.0,200.0 360.0,212.5 360.0,212.5 320.0,200.0; 320.0,200.0 360.0,212.5 360.0,152 320.0,139.5; 320.0,200.0 360.0,212.5 360.0,159 320.0,146.5; 320.0,200.0 360.0,212.5 360.0,157.0 320.0,144.5"
+        fill="freeze"/>
+    </polygon>
+    <polygon points="400.0,200.0 360.0,212.5 360.0,212.5 400.0,200.0" fill="#6931c9" stroke="#a14bff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.5">
+      <animate
+        attributeName="points"
+        begin="1.1681740996857906s"
+        dur="2.5s"
+        repeatCount="1"
+        calcMode="spline"
+        keyTimes="0; 0.6; 0.8; 1" 
+        keySplines="0.4 0 0.2 1; 0.4 0 1 1; 0 0 0.58 1"
+        values="400.0,200.0 360.0,212.5 360.0,212.5 400.0,200.0; 400.0,200.0 360.0,212.5 360.0,152 400.0,139.5; 400.0,200.0 360.0,212.5 360.0,159 400.0,146.5; 400.0,200.0 360.0,212.5 360.0,157.0 400.0,144.5"
+        fill="freeze"/>
+    </polygon>
+    <polygon points="360.0,187.5 400.0,200.0 360.0,212.5 320.0,200.0" fill="#7c3aed" filter="url(#soft-glow)" stroke="#a14bff" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.7">
+      <animate
+        attributeName="points"
+        begin="1.1681740996857906s"
+        dur="2.5s"
+        repeatCount="1"
+        calcMode="spline"
+        keyTimes="0; 0.6; 0.8; 1" 
+        keySplines="0.4 0 0.2 1; 0.4 0 1 1; 0 0 0.58 1"
+        values="360.0,187.5 400.0,200.0 360.0,212.5 320.0,200.0; 360.0,127 400.0,139.5 360.0,152 320.0,139.5; 360.0,134 400.0,146.5 360.0,159 320.0,146.5;                  360.0,132.0 400.0,144.5 360.0,157.0 320.0,144.5"
+        fill="freeze"/>
+    </polygon>
+    <polygon points="396.0,160.7 364.0,170.7 364.0,160.7 396.0,150.7" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
+      <animate
+        attributeName="opacity"
+        begin="5.642144348592575s"
+        dur="1s"
+        calcMode="spline"
+        keyTimes="0; 1"
+        keySplines="0.19 1 0.22 1"
+        values="0.0; 1.0"
+        fill="freeze" />
+    </polygon>
+    <polygon points="324.0,160.7 356.0,170.7 356.0,160.7 324.0,150.7" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
+      <animate
+        attributeName="opacity"
+        begin="5.642144348592575s"
+        dur="1s"
+        calcMode="spline"
+        keyTimes="0; 1"
+        keySplines="0.19 1 0.22 1"
+        values="0.0; 1.0"
+        fill="freeze" />
+    </polygon>
+    <polygon points="396.0,180.7 364.0,190.7 364.0,180.7 396.0,170.7" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
+      <animate
+        attributeName="opacity"
+        begin="4.54779572013432s"
+        dur="1s"
+        calcMode="spline"
+        keyTimes="0; 1"
+        keySplines="0.19 1 0.22 1"
+        values="0.0; 1.0"
+        fill="freeze" />
+    </polygon>
+    <polygon points="324.0,180.7 356.0,190.7 356.0,180.7 324.0,170.7" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
+      <animate
+        attributeName="opacity"
+        begin="4.54779572013432s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4202,7 +4272,7 @@
     <polygon points="120.0,212.5 160.0,225.0 160.0,225.0 120.0,212.5" fill="#93979c" stroke="#ffffff" filter="url(#neon-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.2">
       <animate
         attributeName="points"
-        begin="3.7729755671816214s"
+        begin="1.6503247876816476s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4214,7 +4284,7 @@
     <polygon points="200.0,212.5 160.0,225.0 160.0,225.0 200.0,212.5" fill="#c0c5cc" stroke="#ffffff" filter="url(#neon-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.5">
       <animate
         attributeName="points"
-        begin="3.7729755671816214s"
+        begin="1.6503247876816476s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4226,7 +4296,7 @@
     <polygon points="160.0,200.0 200.0,212.5 160.0,225.0 120.0,212.5" fill="#e2e8f0" filter="url(#neon-glow)" stroke="#ffffff" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.7">
       <animate
         attributeName="points"
-        begin="3.7729755671816214s"
+        begin="1.6503247876816476s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4238,7 +4308,7 @@
     <polygon points="196.0,16.8 164.0,26.8 164.0,16.8 196.0,6.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="7.700052246046152s"
+        begin="7.094577635346191s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4249,7 +4319,7 @@
     <polygon points="124.0,16.8 156.0,26.8 156.0,16.8 124.0,6.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="7.700052246046152s"
+        begin="7.094577635346191s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4260,7 +4330,7 @@
     <polygon points="196.0,36.8 164.0,46.8 164.0,36.8 196.0,26.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="9.221548642270031s"
+        begin="7.243019937524178s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4271,7 +4341,7 @@
     <polygon points="124.0,36.8 156.0,46.8 156.0,36.8 124.0,26.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="9.221548642270031s"
+        begin="7.243019937524178s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4282,7 +4352,7 @@
     <polygon points="196.0,56.8 164.0,66.8 164.0,56.8 196.0,46.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="6.46610068788296s"
+        begin="6.778000482465327s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4293,7 +4363,7 @@
     <polygon points="124.0,56.8 156.0,66.8 156.0,56.8 124.0,46.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="6.46610068788296s"
+        begin="6.778000482465327s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4304,7 +4374,7 @@
     <polygon points="196.0,76.8 164.0,86.8 164.0,76.8 196.0,66.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="9.16476448343574s"
+        begin="4.8069628432568114s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4315,7 +4385,7 @@
     <polygon points="124.0,76.8 156.0,86.8 156.0,76.8 124.0,66.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="9.16476448343574s"
+        begin="4.8069628432568114s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4326,7 +4396,7 @@
     <polygon points="196.0,96.8 164.0,106.8 164.0,96.8 196.0,86.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="9.626657198230117s"
+        begin="4.606125364218156s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4337,7 +4407,7 @@
     <polygon points="124.0,96.8 156.0,106.8 156.0,96.8 124.0,86.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="9.626657198230117s"
+        begin="4.606125364218156s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4348,7 +4418,7 @@
     <polygon points="196.0,116.8 164.0,126.8 164.0,116.8 196.0,106.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="7.278063839471732s"
+        begin="6.388446231153032s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4359,7 +4429,7 @@
     <polygon points="124.0,116.8 156.0,126.8 156.0,116.8 124.0,106.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="7.278063839471732s"
+        begin="6.388446231153032s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4370,7 +4440,7 @@
     <polygon points="196.0,136.8 164.0,146.8 164.0,136.8 196.0,126.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="6.569339435395586s"
+        begin="4.699729746767657s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4381,7 +4451,7 @@
     <polygon points="124.0,136.8 156.0,146.8 156.0,136.8 124.0,126.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="6.569339435395586s"
+        begin="4.699729746767657s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4392,7 +4462,7 @@
     <polygon points="196.0,156.8 164.0,166.8 164.0,156.8 196.0,146.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="9.772319527504973s"
+        begin="5.113017801339357s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4403,7 +4473,7 @@
     <polygon points="124.0,156.8 156.0,166.8 156.0,156.8 124.0,146.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="9.772319527504973s"
+        begin="5.113017801339357s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4414,7 +4484,7 @@
     <polygon points="196.0,176.8 164.0,186.8 164.0,176.8 196.0,166.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="6.667923676976697s"
+        begin="5.244860955268189s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4425,7 +4495,7 @@
     <polygon points="124.0,176.8 156.0,186.8 156.0,176.8 124.0,166.8" fill="#ffe100" filter="url(#jane-glow)" opacity="0.0">
       <animate
         attributeName="opacity"
-        begin="6.667923676976697s"
+        begin="5.244860955268189s"
         dur="1s"
         calcMode="spline"
         keyTimes="0; 1"
@@ -4437,7 +4507,7 @@
     <polygon points="40.0,237.5 80.0,250.0 80.0,250.0 40.0,237.5" fill="#471a8d" stroke="#8e34ff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.2">
       <animate
         attributeName="points"
-        begin="1.5730728557761278s"
+        begin="5.762359701087476s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4449,7 +4519,7 @@
     <polygon points="120.0,237.5 80.0,250.0 80.0,250.0 120.0,237.5" fill="#5d22b8" stroke="#8e34ff" filter="url(#soft-glow)" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.5">
       <animate
         attributeName="points"
-        begin="1.5730728557761278s"
+        begin="5.762359701087476s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
@@ -4461,7 +4531,7 @@
     <polygon points="80.0,225.0 120.0,237.5 80.0,250.0 40.0,237.5" fill="#6d28d9" filter="url(#soft-glow)" stroke="#8e34ff" stroke-linejoin="round" stroke-width="0.7" stroke-opacity="0.7">
       <animate
         attributeName="points"
-        begin="1.5730728557761278s"
+        begin="5.762359701087476s"
         dur="2.5s"
         repeatCount="1"
         calcMode="spline"
