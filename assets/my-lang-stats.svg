@@ -36,11 +36,11 @@
   <text x="20" y="35" fill="#9e3dff" font-size="18" font-weight="bold">Tech Stack &amp; Linguagens</text>      
     <text x="20" y="60" fill="#3178c6" font-size="14" font-weight="600" dominant-baseline="middle">TypeScript</text>
   <rect x="120" y="54" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="54" width="104.00191854887939" height="12" fill="#9e3dff" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="54" width="103.99805074475657" height="12" fill="#9e3dff" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="104.00191854887939"
+      to="103.99805074475657"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -86,11 +86,11 @@
   <text x="430" y="60" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="85" fill="#355570" font-size="14" font-weight="600" dominant-baseline="middle">GDScript</text>
   <rect x="120" y="79" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="79" width="103.77338552059874" height="12" fill="#8a2be2" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="79" width="103.76952621555941" height="12" fill="#8a2be2" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="103.77338552059874"
+      to="103.76952621555941"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -136,11 +136,11 @@
   <text x="430" y="85" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="110" fill="#555555" font-size="14" font-weight="600" dominant-baseline="middle">C</text>
   <rect x="120" y="104" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="104" width="39.44999461369967" height="12" fill="#7c3aed" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="104" width="39.45856870804132" height="12" fill="#7c3aed" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="39.44999461369967"
+      to="39.45856870804132"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -174,11 +174,11 @@
   <text x="430" y="110" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="135" fill="#178600" font-size="14" font-weight="600" dominant-baseline="middle">C#</text>
   <rect x="120" y="129" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="129" width="20.53161501803128" height="12" fill="#6d28d9" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="129" width="20.530851452643997" height="12" fill="#6d28d9" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="20.53161501803128"
+      to="20.530851452643997"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -209,11 +209,11 @@
   <text x="430" y="135" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="160" fill="#3D6117" font-size="14" font-weight="600" dominant-baseline="middle">TeX</text>
   <rect x="120" y="154" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="154" width="1.909635834799604" height="12" fill="#4c1d95" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="154" width="1.909564815942856" height="12" fill="#4c1d95" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="1.909635834799604"
+      to="1.909564815942856"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -240,11 +240,11 @@
   <text x="430" y="160" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="185" fill="#b07219" font-size="14" font-weight="600" dominant-baseline="middle">Java</text>
   <rect x="120" y="179" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="179" width="0.33345046399129985" height="12" fill="#22d3ee" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="179" width="0.3334380630558423" height="12" fill="#22d3ee" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="0.33345046399129985"
+      to="0.3334380630558423"
       dur="5s"
       fill="freeze"
       calcMode="spline"
