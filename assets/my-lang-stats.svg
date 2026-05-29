@@ -48,11 +48,11 @@
   <text x="20" y="35" fill="#9e3dff" font-size="18" font-weight="bold">Tech Stack &amp; Linguagens</text>      
     <text x="20" y="60" fill="#3178c6" font-size="14" font-weight="600" dominant-baseline="middle">TypeScript</text>
   <rect x="120" y="54" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="54" width="72.67849653169866" height="12" fill="#9e3dff" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="54" width="66.87440781156842" height="12" fill="#9e3dff" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="72.67849653169866"
+      to="66.87440781156842"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -74,13 +74,12 @@
         <text x="0" y="90" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">18.0</text>
         <text x="0" y="100" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">20.0</text>
         <text x="0" y="110" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">22.0</text>
-        <text x="0" y="120" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">24.0</text>
-        <text x="0" y="130" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">26.9</text>
+        <text x="0" y="120" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">24.8</text>
         <animateTransform 
           attributeName="transform" 
           type="translate" 
           from="0 0" 
-          to="0 -130" 
+          to="0 -120" 
           dur="5s" 
           fill="freeze"
           calcMode="spline"
@@ -92,11 +91,11 @@
   <text x="430" y="60" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="85" fill="#355570" font-size="14" font-weight="600" dominant-baseline="middle">GDScript</text>
   <rect x="120" y="79" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="79" width="72.51879335376674" height="12" fill="#8a2be2" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="79" width="66.72745849423954" height="12" fill="#8a2be2" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="72.51879335376674"
+      to="66.72745849423954"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -118,13 +117,12 @@
         <text x="0" y="90" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">18.0</text>
         <text x="0" y="100" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">20.0</text>
         <text x="0" y="110" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">22.0</text>
-        <text x="0" y="120" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">24.0</text>
-        <text x="0" y="130" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">26.9</text>
+        <text x="0" y="120" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">24.7</text>
         <animateTransform 
           attributeName="transform" 
           type="translate" 
           from="0 0" 
-          to="0 -130" 
+          to="0 -120" 
           dur="5s" 
           fill="freeze"
           calcMode="spline"
@@ -136,11 +134,11 @@
   <text x="430" y="85" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="110" fill="#555555" font-size="14" font-weight="600" dominant-baseline="middle">C</text>
   <rect x="120" y="104" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="104" width="64.34755605742862" height="12" fill="#7c3aed" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="104" width="66.65955009759513" height="12" fill="#7c3aed" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="64.34755605742862"
+      to="66.65955009759513"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -162,7 +160,7 @@
         <text x="0" y="90" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">18.0</text>
         <text x="0" y="100" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">20.0</text>
         <text x="0" y="110" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">22.0</text>
-        <text x="0" y="120" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">23.8</text>
+        <text x="0" y="120" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">24.7</text>
         <animateTransform 
           attributeName="transform" 
           type="translate" 
@@ -179,11 +177,11 @@
   <text x="430" y="110" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="135" fill="#A97BFF" font-size="14" font-weight="600" dominant-baseline="middle">Kotlin</text>
   <rect x="120" y="129" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="129" width="26.407404420067753" height="12" fill="#6d28d9" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="129" width="30.214115545703958" height="12" fill="#6d28d9" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="26.407404420067753"
+      to="30.214115545703958"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -198,12 +196,13 @@
         <text x="0" y="20" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">4.0</text>
         <text x="0" y="30" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">6.0</text>
         <text x="0" y="40" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">8.0</text>
-        <text x="0" y="50" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">9.8</text>
+        <text x="0" y="50" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">10.0</text>
+        <text x="0" y="60" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">11.2</text>
         <animateTransform 
           attributeName="transform" 
           type="translate" 
           from="0 0" 
-          to="0 -50" 
+          to="0 -60" 
           dur="5s" 
           fill="freeze"
           calcMode="spline"
@@ -215,11 +214,11 @@
   <text x="430" y="135" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="160" fill="#178600" font-size="14" font-weight="600" dominant-baseline="middle">C#</text>
   <rect x="120" y="154" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="154" width="14.347878690111308" height="12" fill="#4c1d95" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="154" width="13.202060259115685" height="12" fill="#4c1d95" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="14.347878690111308"
+      to="13.202060259115685"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -231,13 +230,12 @@
       <g>
         <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">0.0</text>
         <text x="0" y="10" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">2.0</text>
-        <text x="0" y="20" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">4.0</text>
-        <text x="0" y="30" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">5.3</text>
+        <text x="0" y="20" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">4.9</text>
         <animateTransform 
           attributeName="transform" 
           type="translate" 
           from="0 0" 
-          to="0 -30" 
+          to="0 -20" 
           dur="5s" 
           fill="freeze"
           calcMode="spline"
@@ -249,11 +247,11 @@
   <text x="430" y="160" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="185" fill="#DA3434" font-size="14" font-weight="600" dominant-baseline="middle">CMake</text>
   <rect x="120" y="179" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="179" width="10.67035005646072" height="12" fill="#22d3ee" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="179" width="12.537448573923673" height="12" fill="#22d3ee" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="10.67035005646072"
+      to="12.537448573923673"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -265,7 +263,7 @@
       <g>
         <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">0.0</text>
         <text x="0" y="10" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">2.0</text>
-        <text x="0" y="20" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">4.0</text>
+        <text x="0" y="20" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">4.6</text>
         <animateTransform 
           attributeName="transform" 
           type="translate" 
@@ -282,11 +280,11 @@
   <text x="430" y="185" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="210" fill="#f34b7d" font-size="14" font-weight="600" dominant-baseline="middle">C++</text>
   <rect x="120" y="204" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="204" width="5.9518470721084045" height="12" fill="#9e3dff" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="204" width="10.953067752541308" height="12" fill="#9e3dff" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="5.9518470721084045"
+      to="10.953067752541308"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -297,12 +295,13 @@
     <g transform="translate(420, 210)">
       <g>
         <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">0.0</text>
-        <text x="0" y="10" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">2.2</text>
+        <text x="0" y="10" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">2.0</text>
+        <text x="0" y="20" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">4.1</text>
         <animateTransform 
           attributeName="transform" 
           type="translate" 
           from="0 0" 
-          to="0 -10" 
+          to="0 -20" 
           dur="5s" 
           fill="freeze"
           calcMode="spline"
@@ -314,11 +313,11 @@
   <text x="430" y="210" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="235" fill="#3572A5" font-size="14" font-weight="600" dominant-baseline="middle">Python</text>
   <rect x="120" y="229" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="229" width="1.5101629295047587" height="12" fill="#8a2be2" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="229" width="1.3895616506811868" height="12" fill="#8a2be2" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="1.5101629295047587"
+      to="1.3895616506811868"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -328,7 +327,7 @@
   <g clip-path="url(#Python-window)">
     <g transform="translate(420, 235)">
       <g>
-        <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">0.6</text>
+        <text x="0" y="0" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">0.5</text>
         <animateTransform 
           attributeName="transform" 
           type="translate" 
@@ -345,11 +344,11 @@
   <text x="430" y="235" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="260" fill="#3D6117" font-size="14" font-weight="600" dominant-baseline="middle">TeX</text>
   <rect x="120" y="254" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="254" width="1.334489433779642" height="12" fill="#7c3aed" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="254" width="1.2279174016194112" height="12" fill="#7c3aed" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="1.334489433779642"
+      to="1.2279174016194112"
       dur="5s"
       fill="freeze"
       calcMode="spline"
@@ -376,11 +375,11 @@
   <text x="430" y="260" fill="#94a3b8" font-size="12" font-weight="bold" text-anchor="end" dominant-baseline="middle">%</text>
   <text x="20" y="285" fill="#b07219" font-size="14" font-weight="600" dominant-baseline="middle">Java</text>
   <rect x="120" y="279" width="270" height="12" fill="#1e1b4b" rx="4" ry="4" />
-  <rect x="120" y="279" width="0.23302145507339894" height="12" fill="#6d28d9" rx="4" ry="4" filter="url(#neon-glow)">
+  <rect x="120" y="279" width="0.21441241301169411" height="12" fill="#6d28d9" rx="4" ry="4" filter="url(#neon-glow)">
     <animate
       attributeName="width"
       from="0"
-      to="0.23302145507339894"
+      to="0.21441241301169411"
       dur="5s"
       fill="freeze"
       calcMode="spline"
